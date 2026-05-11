@@ -1,0 +1,3577 @@
+[
+  {
+    "name": "iPhone 16 Pro Max 256GB",
+    "category": "手机",
+    "price": 9999,
+    "brand": "Apple",
+    "features": [
+      "A18 Pro芯片（3nm制程）",
+      "6.9英寸OLED超视网膜XDR显示屏",
+      "4800万像素主摄+超广角+5倍长焦",
+      "钛金属中框设计",
+      "USB-C接口支持USB 3.0传输"
+    ],
+    "description": "苹果最强旗舰，性能与影像巅峰",
+    "suitable_for": [
+      "苹果生态用户",
+      "专业摄影爱好者",
+      "追求极致流畅体验者"
+    ]
+  },
+  {
+    "name": "三星Galaxy S25 Ultra 512GB",
+    "category": "手机",
+    "price": 9699,
+    "brand": "Samsung",
+    "features": [
+      "骁龙8 Elite for Galaxy定制芯片",
+      "6.9英寸Dynamic AMOLED 2X 120Hz屏幕",
+      "2亿像素主摄+双长焦（3倍/5倍光学）",
+      "内置S Pen手写笔",
+      "钛金属框架+康宁大猩猩装甲玻璃"
+    ],
+    "description": "安卓机皇，全能商务与影像旗舰",
+    "suitable_for": [
+      "商务人士",
+      "手写笔用户",
+      "安卓高端用户"
+    ]
+  },
+  {
+    "name": "华为Mate 70 Pro+ 512GB",
+    "category": "手机",
+    "price": 8999,
+    "brand": "Huawei",
+    "features": [
+      "麒麟9100芯片（自研架构）",
+      "6.9英寸OLED四曲屏+第二代昆仑玻璃",
+      "5000万像素可变光圈主摄+潜望长焦",
+      "卫星通信（北斗卫星消息）",
+      "纯血鸿蒙HarmonyOS NEXT系统"
+    ],
+    "description": "国产旗舰标杆，自主芯片与系统",
+    "suitable_for": [
+      "华为生态用户",
+      "政企商务人士",
+      "摄影爱好者"
+    ]
+  },
+  {
+    "name": "小米15 Pro 512GB",
+    "category": "手机",
+    "price": 5499,
+    "brand": "Xiaomi",
+    "features": [
+      "骁龙8 Elite芯片",
+      "6.73英寸2K LTPO OLED屏（3200x1440）",
+      "5000万像素徕卡三摄（主摄+超广角+5倍潜望）",
+      "6100mAh金沙江电池+90W有线快充",
+      "超声波指纹识别"
+    ],
+    "description": "性能与影像均衡的性价比旗舰",
+    "suitable_for": [
+      "性价比追求者",
+      "摄影爱好者",
+      "重度手机用户"
+    ]
+  },
+  {
+    "name": "OPPO Find X8 Pro 512GB",
+    "category": "手机",
+    "price": 5999,
+    "brand": "OPPO",
+    "features": [
+      "天玑9400芯片（3nm）",
+      "6.78英寸OLED等深四曲屏",
+      "5000万像素哈苏三摄（双潜望长焦）",
+      "5910mAh电池+80W有线+50W无线",
+      "IP69级防尘防水"
+    ],
+    "description": "影像与续航双优的时尚旗舰",
+    "suitable_for": [
+      "时尚年轻用户",
+      "摄影爱好者",
+      "续航焦虑用户"
+    ]
+  },
+  {
+    "name": "vivo X200 Pro 512GB",
+    "category": "手机",
+    "price": 5499,
+    "brand": "vivo",
+    "features": [
+      "天玑9400芯片",
+      "6.78英寸AMOLED 120Hz屏幕",
+      "5000万像素蔡司三摄（2亿像素潜望长焦）",
+      "6000mAh蓝海电池+90W快充",
+      "OriginOS 5系统+AI蓝心大模型"
+    ],
+    "description": "蔡司影像加持的长焦之王",
+    "suitable_for": [
+      "长焦摄影爱好者",
+      "vivo老用户",
+      "追求长续航者"
+    ]
+  },
+  {
+    "name": "荣耀Magic7 Pro 512GB",
+    "category": "手机",
+    "price": 5699,
+    "brand": "Honor",
+    "features": [
+      "骁龙8 Elite芯片",
+      "6.8英寸OLED绿洲护眼屏（4320Hz PWM）",
+      "5000万像素鹰眼主摄+1.8亿像素潜望长焦",
+      "5850mAh青海湖电池+100W有线",
+      "3D人脸识别+超声波指纹"
+    ],
+    "description": "护眼与影像并重的全能旗舰",
+    "suitable_for": [
+      "护眼需求用户",
+      "摄影爱好者",
+      "商务人士"
+    ]
+  },
+  {
+    "name": "一加13 512GB",
+    "category": "手机",
+    "price": 5299,
+    "brand": "OnePlus",
+    "features": [
+      "骁龙8 Elite芯片",
+      "6.82英寸2K BOE X2 OLED屏（120Hz）",
+      "5000万像素哈苏三摄（主摄+超广角+3倍长焦）",
+      "6000mAh电池+100W有线+50W无线",
+      "0916T X轴线性马达+IP69防尘防水"
+    ],
+    "description": "性能与质感俱佳的极客旗舰",
+    "suitable_for": [
+      "游戏玩家",
+      "极客用户",
+      "追求快充体验者"
+    ]
+  },
+  {
+    "name": "Redmi Note 14 Pro+ 5G 12+256GB",
+    "category": "手机",
+    "price": 1999,
+    "brand": "Redmi",
+    "features": [
+      "天玑7300-Ultra处理器",
+      "6.67英寸120Hz OLED直屏",
+      "2亿像素主摄+OIS光学防抖",
+      "5500mAh电池+67W快充",
+      "IP68级防尘防水"
+    ],
+    "description": "中端水桶机，拍照续航兼得",
+    "suitable_for": [
+      "学生党",
+      "预算有限但追求综合体验的用户",
+      "摄影爱好者"
+    ]
+  },
+  {
+    "name": "iQOO Z9 Turbo 12+256GB",
+    "category": "手机",
+    "price": 1799,
+    "brand": "iQOO",
+    "features": [
+      "骁龙8s Gen3处理器",
+      "6.78英寸144Hz 1.5K直屏",
+      "6000mAh超大电池+80W快充",
+      "5000万像素索尼LYT600主摄",
+      "独显芯片Turbo游戏优化"
+    ],
+    "description": "性能续航双强，游戏党首选",
+    "suitable_for": [
+      "手游玩家",
+      "重度手机用户",
+      "追求长续航的上班族"
+    ]
+  },
+  {
+    "name": "realme GT Neo6 SE 12+256GB",
+    "category": "手机",
+    "price": 1699,
+    "brand": "realme",
+    "features": [
+      "骁龙7+ Gen3处理器",
+      "6.78英寸120Hz 1.5K OLED曲面屏",
+      "5500mAh电池+100W快充",
+      "5000万像素IMX882主摄",
+      "AI智慧引擎性能调度"
+    ],
+    "description": "性能越级，快充体验出色",
+    "suitable_for": [
+      "性价比追求者",
+      "喜欢曲面屏外观的用户",
+      "日常多任务用户"
+    ]
+  },
+  {
+    "name": "OnePlus Ace 3V 12+256GB",
+    "category": "手机",
+    "price": 1999,
+    "brand": "一加",
+    "features": [
+      "骁龙7+ Gen3处理器",
+      "6.74英寸120Hz 1.5K直屏",
+      "5500mAh电池+100W长寿快充",
+      "5000万像素索尼IMX890主摄",
+      "三段式静音键+ColorOS系统"
+    ],
+    "description": "质感与性能平衡的中端机",
+    "suitable_for": [
+      "注重手机质感的用户",
+      "轻度游戏与日常使用",
+      "一加品牌粉丝"
+    ]
+  },
+  {
+    "name": "Honor X50 GT 12+256GB",
+    "category": "手机",
+    "price": 1799,
+    "brand": "荣耀",
+    "features": [
+      "骁龙8+ Gen1处理器",
+      "6.78英寸120Hz 1.5K OLED曲面屏",
+      "5800mAh大电池+35W快充",
+      "1.08亿像素主摄",
+      "GPU Turbo X游戏加速"
+    ],
+    "description": "大屏长续航，游戏体验流畅",
+    "suitable_for": [
+      "大屏爱好者",
+      "续航焦虑用户",
+      "中轻度游戏玩家"
+    ]
+  },
+  {
+    "name": "Redmi K70 12+256GB",
+    "category": "手机",
+    "price": 2199,
+    "brand": "Redmi",
+    "features": [
+      "骁龙8 Gen2处理器",
+      "6.67英寸120Hz 2K直屏",
+      "5000万像素光影猎人800主摄+OIS",
+      "5000mAh电池+120W快充",
+      "金属中框+玻璃后盖"
+    ],
+    "description": "旗舰性能下放，屏幕素质突出",
+    "suitable_for": [
+      "追求高性价比旗舰性能的用户",
+      "屏幕参数党",
+      "快充依赖者"
+    ]
+  },
+  {
+    "name": "iQOO Neo9 12+256GB",
+    "category": "手机",
+    "price": 2299,
+    "brand": "iQOO",
+    "features": [
+      "骁龙8 Gen2处理器",
+      "6.78英寸144Hz 1.5K直屏",
+      "5000万像素IMX920主摄+OIS",
+      "5160mAh电池+120W快充",
+      "自研电竞芯片Q1"
+    ],
+    "description": "电竞级性能，拍照也均衡",
+    "suitable_for": [
+      "重度手游玩家",
+      "追求综合性能的年轻人",
+      "直播或视频录制用户"
+    ]
+  },
+  {
+    "name": "realme GT 6 12+256GB",
+    "category": "手机",
+    "price": 2199,
+    "brand": "realme",
+    "features": [
+      "骁龙8 Gen2处理器",
+      "6.78英寸120Hz 1.5K OLED直屏",
+      "5000万像素IMX890主摄+OIS",
+      "5500mAh电池+100W快充",
+      "双频GPS+AI游戏稳帧"
+    ],
+    "description": "直屏旗舰性能，游戏定位精准",
+    "suitable_for": [
+      "直屏爱好者",
+      "游戏与导航重度用户",
+      "预算有限的性能党"
+    ]
+  },
+  {
+    "name": "Apple MacBook Pro 16 M4 Max 48GB 1TB",
+    "category": "笔记本电脑",
+    "price": 34999,
+    "brand": "Apple",
+    "features": [
+      "M4 Max 16核CPU+40核GPU",
+      "48GB统一内存+1TB SSD",
+      "16.2英寸Liquid Retina XDR显示屏",
+      "22小时电池续航",
+      "Thunderbolt 5接口×3"
+    ],
+    "description": "专业创作旗舰，性能与续航巅峰",
+    "suitable_for": [
+      "视频剪辑师",
+      "3D设计师",
+      "AI开发者"
+    ]
+  },
+  {
+    "name": "ThinkPad X1 Carbon Gen 12 i7-155H 32GB 1TB",
+    "category": "笔记本电脑",
+    "price": 15999,
+    "brand": "Lenovo",
+    "features": [
+      "Intel Core Ultra 7 155H处理器",
+      "32GB LPDDR5x+1TB PCIe 4.0 SSD",
+      "14英寸2.8K OLED 120Hz屏幕",
+      "1.08kg超轻碳纤维机身",
+      "通过MIL-STD-810H军规认证"
+    ],
+    "description": "商务旗舰，极致轻薄与安全耐用",
+    "suitable_for": [
+      "企业高管",
+      "移动办公人士",
+      "安全敏感行业从业者"
+    ]
+  },
+  {
+    "name": "ROG 枪神8 Plus 超竞版 i9-14900HX RTX4090",
+    "category": "笔记本电脑",
+    "price": 24999,
+    "brand": "ASUS",
+    "features": [
+      "Intel Core i9-14900HX+RTX 4090 175W",
+      "32GB DDR5+1TB PCIe 4.0 SSD",
+      "18英寸2.5K 240Hz Mini LED屏",
+      "三风扇+液金散热系统",
+      "单键RGB键盘+RGB灯带"
+    ],
+    "description": "顶级游戏本，性能释放与散热标杆",
+    "suitable_for": [
+      "硬核游戏玩家",
+      "电竞主播",
+      "3A大作爱好者"
+    ]
+  },
+  {
+    "name": "戴尔 XPS 16 9640 Ultra 9 185H 32GB 1TB",
+    "category": "笔记本电脑",
+    "price": 18999,
+    "brand": "Dell",
+    "features": [
+      "Intel Core Ultra 9 185H处理器",
+      "32GB LPDDR5x+1TB SSD",
+      "16.3英寸4K OLED触控屏",
+      "CNC铝合金+玻璃掌托设计",
+      "Intel Arc集成显卡+RTX 4060"
+    ],
+    "description": "创意设计旗舰，屏幕与工艺双绝",
+    "suitable_for": [
+      "平面设计师",
+      "视频编辑",
+      "创意工作者"
+    ]
+  },
+  {
+    "name": "华为 MateBook X Pro 2024 Ultra 9 32GB 2TB",
+    "category": "笔记本电脑",
+    "price": 14999,
+    "brand": "Huawei",
+    "features": [
+      "Intel Core Ultra 9 185H处理器",
+      "32GB+2TB SSD",
+      "14.2英寸3.1K OLED 120Hz触控屏",
+      "980g超轻镁合金机身",
+      "超级终端多设备协同"
+    ],
+    "description": "轻薄性能旗舰，华为生态核心",
+    "suitable_for": [
+      "华为生态用户",
+      "商务精英",
+      "移动办公族"
+    ]
+  },
+  {
+    "name": "微软 Surface Laptop Studio 2 i7-13800H RTX4060",
+    "category": "笔记本电脑",
+    "price": 17888,
+    "brand": "Microsoft",
+    "features": [
+      "Intel Core i7-13800H+RTX 4060 8GB",
+      "32GB LPDDR5x+1TB SSD",
+      "14.4英寸120Hz PixelSense触控屏",
+      "三种形态变形（笔记本/工作室/平板）",
+      "Surface Slim Pen 2磁吸收纳"
+    ],
+    "description": "创意变形本，绘图与演示利器",
+    "suitable_for": [
+      "数字艺术家",
+      "设计师",
+      "演示汇报者"
+    ]
+  },
+  {
+    "name": "雷蛇 灵刃16 2024 i9-14900HX RTX4090",
+    "category": "笔记本电脑",
+    "price": 29999,
+    "brand": "Razer",
+    "features": [
+      "Intel Core i9-14900HX+RTX 4090 16GB",
+      "32GB DDR5+2TB PCIe 4.0 SSD",
+      "16英寸2.5K 240Hz OLED屏",
+      "CNC铝合金机身+均热板散热",
+      "THX空间音效+RGB键盘"
+    ],
+    "description": "游戏本中的超跑，性能与质感兼具",
+    "suitable_for": [
+      "高端游戏玩家",
+      "内容创作者",
+      "硬件发烧友"
+    ]
+  },
+  {
+    "name": "LG gram Pro 2024 i7-1360P 32GB 1TB",
+    "category": "笔记本电脑",
+    "price": 12999,
+    "brand": "LG",
+    "features": [
+      "Intel Core i7-1360P处理器",
+      "32GB LPDDR5+1TB SSD",
+      "16英寸2.5K 144Hz IPS屏",
+      "仅1.19kg超轻镁合金机身",
+      "80Wh大电池+19小时续航"
+    ],
+    "description": "超轻长续航旗舰，移动办公首选",
+    "suitable_for": [
+      "差旅频繁者",
+      "学生",
+      "轻量办公用户"
+    ]
+  },
+  {
+    "name": "联想ThinkBook 14+ 2024 锐龙版 R7-8845H",
+    "category": "笔记本电脑",
+    "price": 5299,
+    "brand": "联想",
+    "features": [
+      "AMD R7-8845H处理器 8核16线程",
+      "32GB LPDDR5x 7500MHz内存",
+      "14英寸2.8K 120Hz IPS屏",
+      "双M.2硬盘位 支持扩展",
+      "85Wh大电池+100W PD快充"
+    ],
+    "description": "高性能商务本，接口丰富扩展性强",
+    "suitable_for": [
+      "学生党",
+      "职场新人",
+      "轻度创作者"
+    ]
+  },
+  {
+    "name": "华硕无畏15i 2024 i5-13500H",
+    "category": "笔记本电脑",
+    "price": 4799,
+    "brand": "华硕",
+    "features": [
+      "Intel i5-13500H 12核16线程",
+      "16GB DDR4 3200MHz内存",
+      "15.6英寸2.8K 120Hz OLED屏",
+      "双雷电4接口+HDMI 2.1",
+      "70Wh电池+65W快充"
+    ],
+    "description": "OLED高刷屏，影音办公全能本",
+    "suitable_for": [
+      "影音爱好者",
+      "办公用户",
+      "学生群体"
+    ]
+  },
+  {
+    "name": "Redmi Book Pro 15 2024 锐龙版",
+    "category": "笔记本电脑",
+    "price": 4499,
+    "brand": "小米",
+    "features": [
+      "AMD R7-8845HS处理器 8核16线程",
+      "16GB LPDDR5x 6400MHz内存",
+      "15.6英寸3.2K 120Hz高色域屏",
+      "CNC一体金属机身 1.78kg",
+      "72Wh电池+100W GaN充电"
+    ],
+    "description": "高性价比金属轻薄本，屏幕素质优秀",
+    "suitable_for": [
+      "预算敏感型用户",
+      "学生",
+      "轻办公人群"
+    ]
+  },
+  {
+    "name": "惠普战66 六代 锐龙版 R5-7530U",
+    "category": "笔记本电脑",
+    "price": 3999,
+    "brand": "惠普",
+    "features": [
+      "AMD R5-7530U 6核12线程",
+      "16GB DDR4 3200MHz内存",
+      "15.6英寸1080P低蓝光屏",
+      "双内存插槽+双硬盘位",
+      "51Wh电池+1年上门服务"
+    ],
+    "description": "商务入门本，稳定耐用售后好",
+    "suitable_for": [
+      "企业办公",
+      "网课学生",
+      "家庭用户"
+    ]
+  },
+  {
+    "name": "宏碁非凡Go Pro 2024 i5-13500H",
+    "category": "笔记本电脑",
+    "price": 4299,
+    "brand": "宏碁",
+    "features": [
+      "Intel i5-13500H 12核16线程",
+      "16GB LPDDR5 5200MHz内存",
+      "14英寸2.8K 120Hz OLED屏",
+      "双雷电4+USB-A+HDMI",
+      "65Wh电池+指纹识别"
+    ],
+    "description": "OLED屏高性能轻薄本，接口齐全",
+    "suitable_for": [
+      "设计爱好者",
+      "学生",
+      "移动办公族"
+    ]
+  },
+  {
+    "name": "荣耀MagicBook X 14 Pro 2024",
+    "category": "笔记本电脑",
+    "price": 4599,
+    "brand": "荣耀",
+    "features": [
+      "AMD R7-7840HS处理器 8核16线程",
+      "16GB LPDDR5x 6400MHz内存",
+      "14英寸2.2K 60Hz IPS屏",
+      "多屏协同+荣耀分享生态",
+      "60Wh电池+65W快充 1.4kg"
+    ],
+    "description": "生态协同轻薄本，华为荣耀用户优选",
+    "suitable_for": [
+      "荣耀/华为手机用户",
+      "学生",
+      "轻办公"
+    ]
+  },
+  {
+    "name": "机械革命无界14X 2024 锐龙版",
+    "category": "笔记本电脑",
+    "price": 3999,
+    "brand": "机械革命",
+    "features": [
+      "AMD R7-8845HS处理器 8核16线程",
+      "24GB LPDDR5x 6400MHz内存",
+      "14英寸2.8K 120Hz IPS屏",
+      "双M.2硬盘位+双USB4",
+      "60Wh电池+全金属机身"
+    ],
+    "description": "大内存高性能，性价比屠夫",
+    "suitable_for": [
+      "程序员",
+      "学生",
+      "多任务用户"
+    ]
+  },
+  {
+    "name": "戴尔灵越14 Plus 7440 i5-13500H",
+    "category": "笔记本电脑",
+    "price": 4999,
+    "brand": "戴尔",
+    "features": [
+      "Intel i5-13500H 12核16线程",
+      "16GB DDR5 4800MHz内存",
+      "14英寸2.5K 120Hz IPS屏",
+      "双雷电4+HDMI 2.0+SD卡槽",
+      "64Wh电池+1.66kg轻薄机身"
+    ],
+    "description": "均衡配置商务本，接口扩展性好",
+    "suitable_for": [
+      "职场白领",
+      "创意工作者",
+      "学生"
+    ]
+  },
+  {
+    "name": "Sony WH-1000XM5 无线降噪头戴式耳机",
+    "category": "耳机",
+    "price": 2999,
+    "brand": "Sony",
+    "features": [
+      "集成V1+QN1双处理器降噪",
+      "30小时续航+快充3分钟播放3小时",
+      "8麦克风系统精准拾音",
+      "支持LDAC高解析音频传输",
+      "自适应声音控制智能场景切换"
+    ],
+    "description": "旗舰级降噪耳机，音质与降噪双巅峰",
+    "suitable_for": [
+      "商务差旅人士",
+      "通勤族",
+      "音质发烧友"
+    ]
+  },
+  {
+    "name": "Bose QuietComfort Ultra 头戴式降噪耳机",
+    "category": "耳机",
+    "price": 3299,
+    "brand": "Bose",
+    "features": [
+      "CustomTune智能耳内音场调校",
+      "沉浸式空间音频头部追踪",
+      "24小时续航+15分钟快充2.5小时",
+      "Bose标志性降噪+通透模式",
+      "支持Snapdragon Sound骁龙畅听"
+    ],
+    "description": "空间音频与极致降噪的完美融合",
+    "suitable_for": [
+      "航空常旅客",
+      "影音爱好者",
+      "降噪刚需用户"
+    ]
+  },
+  {
+    "name": "Apple AirPods Max (USB-C) 头戴式耳机",
+    "category": "耳机",
+    "price": 3999,
+    "brand": "Apple",
+    "features": [
+      "H1芯片10核音频处理引擎",
+      "主动降噪+自适应均衡器",
+      "空间音频动态头部追踪",
+      "20小时续航+USB-C快充",
+      "不锈钢框架+透气编织耳罩"
+    ],
+    "description": "苹果生态顶级头戴式音频体验",
+    "suitable_for": [
+      "苹果全家桶用户",
+      "设计控",
+      "高端影音用户"
+    ]
+  },
+  {
+    "name": "Sennheiser Momentum 4 Wireless 头戴式耳机",
+    "category": "耳机",
+    "price": 2999,
+    "brand": "Sennheiser",
+    "features": [
+      "42mm动圈单元+低音增强技术",
+      "自适应降噪+透明聆听模式",
+      "60小时超长续航",
+      "支持aptX Adaptive高清编码",
+      "皮革头梁+记忆海绵耳罩"
+    ],
+    "description": "德系调音标杆，续航与音质兼得",
+    "suitable_for": [
+      "古典/人声爱好者",
+      "长续航需求者",
+      "品质生活人群"
+    ]
+  },
+  {
+    "name": "Focal Bathys 无线降噪头戴式耳机",
+    "category": "耳机",
+    "price": 5999,
+    "brand": "Focal",
+    "features": [
+      "40mm铍振膜单元（源自乌托邦系列）",
+      "DAC/USB-DAC模式支持24bit/192kHz",
+      "主动降噪+环境模式",
+      "30小时续航+快速充电",
+      "碳纤维/真皮材质奢华做工"
+    ],
+    "description": "Hi-Fi音响品牌打造的无线降噪旗舰",
+    "suitable_for": [
+      "高端发烧友",
+      "录音师",
+      "奢侈品耳机收藏者"
+    ]
+  },
+  {
+    "name": "Bowers & Wilkins Px8 无线降噪头戴式耳机",
+    "category": "耳机",
+    "price": 4999,
+    "brand": "Bowers & Wilkins",
+    "features": [
+      "40mm碳纤维振膜单元",
+      "DSP数字信号处理优化",
+      "自适应降噪+环境穿越",
+      "30小时续航+15分钟快充7小时",
+      "Nappa皮革+铝制骨架奢华质感"
+    ],
+    "description": "英伦声学美学，奢华材质与纯净音质",
+    "suitable_for": [
+      "古典/爵士乐迷",
+      "商务精英",
+      "颜值与音质并重者"
+    ]
+  },
+  {
+    "name": "AKG N5005 旗舰级入耳式耳机",
+    "category": "耳机",
+    "price": 2999,
+    "brand": "AKG",
+    "features": [
+      "5单元混合驱动（1动圈+4动铁）",
+      "可换线设计+3种调音滤波器",
+      "频响范围10Hz-40kHz",
+      "阻抗18Ω灵敏度116dB",
+      "附赠蓝牙线+3.5mm/2.5mm平衡线"
+    ],
+    "description": "参考级多单元入耳，细节解析力天花板",
+    "suitable_for": [
+      "专业监听用户",
+      "古典乐发烧友",
+      "器材评测玩家"
+    ]
+  },
+  {
+    "name": "Sony WF-1000XM5 真无线降噪耳机",
+    "category": "耳机",
+    "price": 1999,
+    "brand": "Sony",
+    "features": [
+      "集成处理器V2+QN1e降噪芯片",
+      "8.4mm驱动单元+高刚性振膜",
+      "8小时续航+充电盒24小时",
+      "IPX4防水+自适应降噪",
+      "支持LDAC+空间音频头部追踪"
+    ],
+    "description": "真无线降噪标杆，小身材大能量",
+    "suitable_for": [
+      "通勤运动用户",
+      "安卓手机用户",
+      "降噪与便携平衡者"
+    ]
+  },
+  {
+    "name": "水月雨 兰 入耳式耳机",
+    "category": "耳机",
+    "price": 199,
+    "brand": "水月雨",
+    "features": [
+      "10mm镀铍振膜动圈单元",
+      "0.78mm 2pin可换线设计",
+      "频响范围20Hz-20kHz",
+      "灵敏度120dB/Vrms",
+      "阻抗32Ω"
+    ],
+    "description": "高解析入门HiFi耳机，性价比突出",
+    "suitable_for": [
+      "入门HiFi玩家",
+      "追求解析力的音乐爱好者",
+      "预算有限的发烧友"
+    ]
+  },
+  {
+    "name": "兴戈 EW200 入耳式耳机",
+    "category": "耳机",
+    "price": 299,
+    "brand": "兴戈",
+    "features": [
+      "10mm双磁路双腔体动圈",
+      "LCP液晶振膜",
+      "可换调音滤波器（3对）",
+      "0.78mm 2pin接口",
+      "频响范围20Hz-40kHz"
+    ],
+    "description": "可调音设计，适合多种音乐风格",
+    "suitable_for": [
+      "喜欢折腾调音的玩家",
+      "流行音乐爱好者",
+      "游戏玩家"
+    ]
+  },
+  {
+    "name": "漫步者 G2 头戴式游戏耳机",
+    "category": "耳机",
+    "price": 199,
+    "brand": "Edifier",
+    "features": [
+      "50mm钕磁铁驱动单元",
+      "虚拟7.1环绕声",
+      "USB接口即插即用",
+      "可拆卸降噪麦克风",
+      "重量约250g"
+    ],
+    "description": "入门级游戏耳机，轻便实用",
+    "suitable_for": [
+      "PC游戏玩家",
+      "预算有限的电竞爱好者",
+      "网课办公用户"
+    ]
+  },
+  {
+    "name": "索尼 WH-CH720N 头戴式降噪耳机",
+    "category": "耳机",
+    "price": 799,
+    "brand": "Sony",
+    "features": [
+      "双噪声传感器降噪技术",
+      "30小时续航（降噪开）",
+      "支持LDAC高清蓝牙编码",
+      "快充10分钟听歌1小时",
+      "重量约192g"
+    ],
+    "description": "轻量级主动降噪，续航出色",
+    "suitable_for": [
+      "通勤族",
+      "学生党",
+      "需要降噪的日常用户"
+    ]
+  },
+  {
+    "name": "小米 Buds 5 真无线降噪耳机",
+    "category": "耳机",
+    "price": 699,
+    "brand": "Xiaomi",
+    "features": [
+      "11mm双磁体动圈单元",
+      "自适应主动降噪（最高40dB）",
+      "支持LHDC 5.0高清音频",
+      "单次续航7小时（降噪开）",
+      "IP54防尘防水"
+    ],
+    "description": "小米生态高性价比降噪TWS",
+    "suitable_for": [
+      "小米手机用户",
+      "日常通勤者",
+      "运动爱好者"
+    ]
+  },
+  {
+    "name": "OPPO Enco Air4 Pro 真无线耳机",
+    "category": "耳机",
+    "price": 499,
+    "brand": "OPPO",
+    "features": [
+      "12.4mm镀钛动圈单元",
+      "主动降噪深度49dB",
+      "支持LHDC 5.0高清音频",
+      "单次续航12小时（降噪关）",
+      "IP55防尘防水"
+    ],
+    "description": "降噪深度领先的中端TWS",
+    "suitable_for": [
+      "OPPO手机用户",
+      "追求降噪效果的上班族",
+      "学生群体"
+    ]
+  },
+  {
+    "name": "漫步者 W820NB 头戴式降噪耳机",
+    "category": "耳机",
+    "price": 349,
+    "brand": "Edifier",
+    "features": [
+      "40mm镀钛振膜单元",
+      "混合主动降噪（-38dB）",
+      "支持LDAC高清蓝牙编码",
+      "续航50小时（降噪关）",
+      "可折叠设计，重量约220g"
+    ],
+    "description": "入门级头戴降噪，续航超长",
+    "suitable_for": [
+      "学生党",
+      "长途旅行者",
+      "预算有限的降噪需求者"
+    ]
+  },
+  {
+    "name": "飞利浦 SHP9500 头戴式耳机",
+    "category": "耳机",
+    "price": 299,
+    "brand": "Philips",
+    "features": [
+      "50mm钕磁铁驱动单元",
+      "开放式声学设计",
+      "频响范围12Hz-35kHz",
+      "阻抗32Ω，灵敏度101dB",
+      "可拆卸3.5mm线缆"
+    ],
+    "description": "经典开放式监听耳机，声场自然",
+    "suitable_for": [
+      "音乐制作入门者",
+      "游戏玩家（FPS定位）",
+      "追求自然听感的用户"
+    ]
+  },
+  {
+    "name": "iPad Pro 13英寸 M4芯片 2024款",
+    "category": "平板",
+    "price": 11499,
+    "brand": "Apple",
+    "features": [
+      "M4芯片10核CPU+16核神经网络引擎",
+      "Ultra Retina XDR显示屏 1600nit峰值亮度",
+      "超广角前置1200万像素+激光雷达扫描仪",
+      "支持Apple Pencil Pro悬停功能",
+      "Thunderbolt 4接口+5G网络支持"
+    ],
+    "description": "性能与显示标杆的旗舰平板",
+    "suitable_for": [
+      "专业创意工作者",
+      "高端商务人士",
+      "重度影音发烧友"
+    ]
+  },
+  {
+    "name": "iPad Pro 11英寸 M4芯片 2024款",
+    "category": "平板",
+    "price": 9499,
+    "brand": "Apple",
+    "features": [
+      "M4芯片9核CPU+10核GPU",
+      "Liquid Retina XDR显示屏 1600nit峰值亮度",
+      "1200万像素广角+超广角双摄",
+      "Face ID面容识别+四扬声器系统",
+      "支持Apple Pencil Pro和妙控键盘"
+    ],
+    "description": "便携旗舰性能平板",
+    "suitable_for": [
+      "移动办公用户",
+      "学生与教育工作者",
+      "轻度创意设计者"
+    ]
+  },
+  {
+    "name": "三星Galaxy Tab S10 Ultra 14.6英寸",
+    "category": "平板",
+    "price": 10999,
+    "brand": "Samsung",
+    "features": [
+      "联发科天玑9300+处理器",
+      "14.6英寸Dynamic AMOLED 2X 120Hz屏幕",
+      "11200mAh大电池+45W快充",
+      "S Pen手写笔+IP68防水防尘",
+      "支持DeX桌面模式和Wi-Fi 7"
+    ],
+    "description": "超大屏安卓旗舰平板",
+    "suitable_for": [
+      "多任务办公用户",
+      "绘画与笔记爱好者",
+      "影音娱乐重度用户"
+    ]
+  },
+  {
+    "name": "三星Galaxy Tab S10+ 12.4英寸",
+    "category": "平板",
+    "price": 8499,
+    "brand": "Samsung",
+    "features": [
+      "联发科天玑9300+处理器",
+      "12.4英寸Dynamic AMOLED 2X 120Hz屏幕",
+      "10090mAh电池+45W快充",
+      "S Pen手写笔+AKG四扬声器",
+      "支持DeX模式和屏幕指纹识别"
+    ],
+    "description": "均衡旗舰安卓平板",
+    "suitable_for": [
+      "商务人士",
+      "学生与教育场景",
+      "家庭娱乐用户"
+    ]
+  },
+  {
+    "name": "华为MatePad Pro 13.2英寸 2025款",
+    "category": "平板",
+    "price": 8999,
+    "brand": "Huawei",
+    "features": [
+      "麒麟9010芯片+鸿蒙OS 4.2",
+      "13.2英寸OLED柔性屏 144Hz刷新率",
+      "10100mAh电池+88W超级快充",
+      "星闪NearLink技术+天生会画App",
+      "支持北斗卫星消息和PC级WPS"
+    ],
+    "description": "国产旗舰生产力平板",
+    "suitable_for": [
+      "华为生态用户",
+      "专业绘画创作者",
+      "移动办公人员"
+    ]
+  },
+  {
+    "name": "华为MatePad Pro 12.2英寸 2025款",
+    "category": "平板",
+    "price": 7499,
+    "brand": "Huawei",
+    "features": [
+      "麒麟9010芯片+鸿蒙OS 4.2",
+      "12.2英寸OLED屏 2.8K分辨率 144Hz",
+      "10000mAh电池+66W快充",
+      "星闪手写笔+多屏协同功能",
+      "支持PC级应用和卫星通信"
+    ],
+    "description": "高端便携生产力平板",
+    "suitable_for": [
+      "商务差旅人士",
+      "学习与笔记用户",
+      "轻度设计工作者"
+    ]
+  },
+  {
+    "name": "小米平板7 Pro 14英寸 2025款",
+    "category": "平板",
+    "price": 5999,
+    "brand": "Xiaomi",
+    "features": [
+      "骁龙8 Gen 3领先版处理器",
+      "14英寸LCD屏 3K分辨率 144Hz",
+      "12000mAh电池+120W秒充",
+      "八扬声器杜比全景声+PC级WPS",
+      "支持小米澎湃OS和跨设备互联"
+    ],
+    "description": "性能强劲的国产旗舰平板",
+    "suitable_for": [
+      "性价比追求者",
+      "游戏玩家",
+      "影音娱乐用户"
+    ]
+  },
+  {
+    "name": "联想拯救者Y900 14.5英寸 2025款",
+    "category": "平板",
+    "price": 6999,
+    "brand": "Lenovo",
+    "features": [
+      "联发科天玑9300+处理器",
+      "14.5英寸OLED屏 3K分辨率 120Hz",
+      "12300mAh电池+68W快充",
+      "八扬声器JBL调音+游戏模式",
+      "支持PC级应用和手写笔"
+    ],
+    "description": "大屏游戏与办公旗舰平板",
+    "suitable_for": [
+      "重度游戏玩家",
+      "影音爱好者",
+      "多任务办公用户"
+    ]
+  },
+  {
+    "name": "小米平板7 Pro 12.4英寸",
+    "category": "平板",
+    "price": 2499,
+    "brand": "小米",
+    "features": [
+      "骁龙8+ Gen1处理器",
+      "12.4英寸144Hz LCD屏",
+      "10000mAh电池+67W快充",
+      "8扬声器杜比全景声",
+      "支持小米触控笔2代"
+    ],
+    "description": "性能与影音均衡的性价比旗舰",
+    "suitable_for": [
+      "学生党",
+      "影音爱好者",
+      "轻度办公用户"
+    ]
+  },
+  {
+    "name": "华为MatePad 11.5英寸 2024",
+    "category": "平板",
+    "price": 2199,
+    "brand": "华为",
+    "features": [
+      "麒麟9000W处理器",
+      "11.5英寸120Hz 2.2K屏",
+      "7700mAh电池+22.5W快充",
+      "鸿蒙OS 4.0多屏协同",
+      "支持M-Pencil手写笔"
+    ],
+    "description": "鸿蒙生态下的学习办公利器",
+    "suitable_for": [
+      "华为手机用户",
+      "考研学生",
+      "轻办公人群"
+    ]
+  },
+  {
+    "name": "荣耀平板9 Pro 12.1英寸",
+    "category": "平板",
+    "price": 1999,
+    "brand": "荣耀",
+    "features": [
+      "骁龙8+ Gen1处理器",
+      "12.1英寸144Hz 2.5K屏",
+      "10050mAh电池+66W快充",
+      "8扬声器IMAX Enhanced",
+      "支持荣耀Magic-Pencil 3"
+    ],
+    "description": "大屏高刷游戏影音全能平板",
+    "suitable_for": [
+      "游戏玩家",
+      "网课学生",
+      "家庭娱乐用户"
+    ]
+  },
+  {
+    "name": "联想小新Pad Pro 12.7英寸 2025",
+    "category": "平板",
+    "price": 1799,
+    "brand": "联想",
+    "features": [
+      "天玑8300处理器",
+      "12.7英寸144Hz 2.9K OLED屏",
+      "10200mAh电池+45W快充",
+      "JBL四扬声器杜比全景声",
+      "支持手写笔和键盘"
+    ],
+    "description": "OLED大屏性价比之王",
+    "suitable_for": [
+      "追剧爱好者",
+      "绘画入门",
+      "预算有限用户"
+    ]
+  },
+  {
+    "name": "OPPO Pad Air 2 11.4英寸",
+    "category": "平板",
+    "price": 1499,
+    "brand": "OPPO",
+    "features": [
+      "联发科Helio G99处理器",
+      "11.4英寸90Hz 2.4K屏",
+      "8000mAh电池+33W快充",
+      "四扬声器杜比音效",
+      "支持OPPO Pencil"
+    ],
+    "description": "千元级护眼学习平板",
+    "suitable_for": [
+      "中小学生",
+      "轻度阅读",
+      "家长监控需求"
+    ]
+  },
+  {
+    "name": "vivo Pad 3 12.1英寸",
+    "category": "平板",
+    "price": 2299,
+    "brand": "vivo",
+    "features": [
+      "天玑9300处理器",
+      "12.1英寸144Hz 2.8K LCD屏",
+      "10000mAh电池+44W快充",
+      "六扬声器超线性音效",
+      "支持vivo Pencil 2和键盘"
+    ],
+    "description": "性能强劲的办公娱乐平板",
+    "suitable_for": [
+      "vivo手机用户",
+      "移动办公",
+      "游戏玩家"
+    ]
+  },
+  {
+    "name": "三星Galaxy Tab A9+ 11英寸",
+    "category": "平板",
+    "price": 1599,
+    "brand": "三星",
+    "features": [
+      "骁龙695处理器",
+      "11英寸90Hz TFT屏",
+      "7040mAh电池+15W快充",
+      "四扬声器杜比全景声",
+      "支持S Pen手写笔"
+    ],
+    "description": "国际品牌入门性价比之选",
+    "suitable_for": [
+      "三星生态用户",
+      "儿童学习",
+      "基础影音"
+    ]
+  },
+  {
+    "name": "红米Pad Pro 12.1英寸",
+    "category": "平板",
+    "price": 1399,
+    "brand": "红米",
+    "features": [
+      "骁龙7s Gen2处理器",
+      "12.1英寸120Hz 2.4K LCD屏",
+      "10000mAh电池+33W快充",
+      "四扬声器杜比音效",
+      "支持小米触控笔和键盘"
+    ],
+    "description": "极致性价比大屏入门平板",
+    "suitable_for": [
+      "预算敏感用户",
+      "网课学习",
+      "家庭共享"
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 2 49mm钛金属版",
+    "category": "智能手表",
+    "price": 5999,
+    "brand": "Apple",
+    "features": [
+      "S9 SiP芯片，双核64位处理器",
+      "3000尼特峰值亮度OLED屏幕",
+      "86dB警笛+双频GPS精准定位",
+      "100米防水+EN13319潜水认证",
+      "36小时续航（低功耗模式72小时）"
+    ],
+    "description": "户外探险与运动旗舰智能手表",
+    "suitable_for": [
+      "极限运动爱好者",
+      "潜水与户外探险者",
+      "苹果生态重度用户"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Watch Ultra 47mm钛金属版",
+    "category": "智能手表",
+    "price": 4999,
+    "brand": "Samsung",
+    "features": [
+      "Exynos W1000 3nm处理器，2GB RAM",
+      "480x480 Super AMOLED蓝宝石玻璃",
+      "10ATM防水+IP68+军规MIL-STD-810H",
+      "生物活性传感器+双频GPS",
+      "钛金属表壳+快速按钮自定义功能"
+    ],
+    "description": "安卓阵营顶级户外智能手表",
+    "suitable_for": [
+      "安卓旗舰手机用户",
+      "户外运动与健身爱好者",
+      "追求耐用与钛金属质感用户"
+    ]
+  },
+  {
+    "name": "Huawei Watch GT 5 Pro 46mm钛金属版",
+    "category": "智能手表",
+    "price": 3688,
+    "brand": "Huawei",
+    "features": [
+      "1.43英寸466x466 AMOLED蓝宝石玻璃",
+      "玄玑感知系统+ECG心电分析+动脉硬化检测",
+      "100米防水+高尔夫球场模式+越野跑导航",
+      "14天超长续航（典型使用）",
+      "钛合金表壳+纳米微晶陶瓷表圈"
+    ],
+    "description": "华为旗舰健康与运动智能手表",
+    "suitable_for": [
+      "华为手机与鸿蒙生态用户",
+      "注重健康监测与长续航用户",
+      "高尔夫与户外运动爱好者"
+    ]
+  },
+  {
+    "name": "Garmin Fenix 8 51mm AMOLED版",
+    "category": "智能手表",
+    "price": 6980,
+    "brand": "Garmin",
+    "features": [
+      "1.4英寸454x454 AMOLED屏幕，太阳能充电可选",
+      "多频多星GPS+SatIQ自适应定位",
+      "100米防水+潜水模式+军规标准",
+      "内置LED手电筒+体力电量实时监测",
+      "最长29天续航（智能模式）"
+    ],
+    "description": "专业级户外探险与运动旗舰手表",
+    "suitable_for": [
+      "专业运动员与户外探险家",
+      "潜水与多运动项目训练者",
+      "追求极致GPS精度与续航用户"
+    ]
+  },
+  {
+    "name": "TicWatch Pro 5 Enduro",
+    "category": "智能手表",
+    "price": 2999,
+    "brand": "Mobvoi",
+    "features": [
+      "骁龙W5+ Gen1处理器，1.43英寸OLED+双层屏",
+      "旋转表冠+Google Wear OS 3.5",
+      "100小时持久模式+快充",
+      "心率+血氧+睡眠+皮肤温度传感器",
+      "蓝宝石玻璃+316L不锈钢+军规MIL-STD-810H"
+    ],
+    "description": "Wear OS旗舰长续航智能手表",
+    "suitable_for": [
+      "安卓手机与谷歌生态用户",
+      "需要长续航与Wear OS功能用户",
+      "注重性价比的旗舰智能手表用户"
+    ]
+  },
+  {
+    "name": "Amazfit T-Rex Ultra",
+    "category": "智能手表",
+    "price": 2499,
+    "brand": "Amazfit",
+    "features": [
+      "1.39英寸454x454 AMOLED，1000尼特亮度",
+      "双频GPS+六星定位+轨迹导航",
+      "100米防水+军规MIL-STD-810G+热冲击测试",
+      "Zepp OS 3.0+离线地图+手电筒",
+      "20天续航（典型使用）"
+    ],
+    "description": "硬核户外军规级智能手表",
+    "suitable_for": [
+      "预算有限的户外运动爱好者",
+      "登山与越野跑用户",
+      "追求耐用与长续航的探险者"
+    ]
+  },
+  {
+    "name": "Suunto Race S 钛合金版",
+    "category": "智能手表",
+    "price": 3299,
+    "brand": "Suunto",
+    "features": [
+      "1.43英寸466x466 AMOLED，蓝宝石玻璃",
+      "双频GPS+Suunto FusedTrack算法",
+      "100米防水+气压计+指南针+温度计",
+      "SuuntoPlus运动教练+离线地图导航",
+      "10天续航（GPS模式30小时）"
+    ],
+    "description": "专业运动训练与导航旗舰手表",
+    "suitable_for": [
+      "严肃跑者与铁人三项运动员",
+      "户外导航与路线规划爱好者",
+      "追求精准运动数据用户"
+    ]
+  },
+  {
+    "name": "OnePlus Watch 3 46mm不锈钢版",
+    "category": "智能手表",
+    "price": 2299,
+    "brand": "OnePlus",
+    "features": [
+      "骁龙W5+ Gen1+恒玄BES2700双芯片",
+      "1.5英寸466x466 AMOLED，2200尼特峰值亮度",
+      "Wear OS 5+5天全智能续航+快充",
+      "ECG心电+60秒健康检查+睡眠呼吸监测",
+      "不锈钢表壳+蓝宝石玻璃+旋转表冠"
+    ],
+    "description": "Wear OS高性价比旗舰智能手表",
+    "suitable_for": [
+      "一加与安卓手机用户",
+      "追求Wear OS与长续航平衡用户",
+      "注重健康监测与性价比用户"
+    ]
+  },
+  {
+    "name": "小米Watch S3 eSIM版",
+    "category": "智能手表",
+    "price": 899,
+    "brand": "小米",
+    "features": [
+      "1.43英寸AMOLED屏幕，466x466分辨率",
+      "eSIM独立通话，支持一号双终端",
+      "12nm制程芯片，续航15天",
+      "150+运动模式，双频GPS定位",
+      "5ATM防水等级，支持血氧/心率监测"
+    ],
+    "description": "高性价比eSIM智能手表，功能全面",
+    "suitable_for": [
+      "小米手机用户",
+      "预算有限但需独立通话的用户",
+      "运动爱好者"
+    ]
+  },
+  {
+    "name": "华为Watch GT 4 46mm",
+    "category": "智能手表",
+    "price": 1388,
+    "brand": "华为",
+    "features": [
+      "1.43英寸AMOLED屏，466x466分辨率",
+      "TruSeen 5.5+心率监测，血氧/睡眠分析",
+      "双频GPS+北斗定位，100+运动模式",
+      "14天续航，HarmonyOS 4系统",
+      "5ATM防水，支持蓝牙通话/音乐播放"
+    ],
+    "description": "时尚长续航智能手表，健康功能出色",
+    "suitable_for": [
+      "华为手机用户",
+      "注重健康监测的用户",
+      "日常通勤与轻度运动者"
+    ]
+  },
+  {
+    "name": "三星Galaxy Watch FE 40mm",
+    "category": "智能手表",
+    "price": 1299,
+    "brand": "三星",
+    "features": [
+      "1.2英寸Super AMOLED屏，396x396分辨率",
+      "Exynos W920芯片，1.5GB RAM+16GB存储",
+      "BioActive传感器，心率/血氧/体脂分析",
+      "Wear OS系统，支持Google生态",
+      "5ATM+IP68防水，续航约40小时"
+    ],
+    "description": "入门级三星智能手表，生态完善",
+    "suitable_for": [
+      "三星手机用户",
+      "Wear OS生态爱好者",
+      "健身入门用户"
+    ]
+  },
+  {
+    "name": "OPPO Watch 4 Pro",
+    "category": "智能手表",
+    "price": 1999,
+    "brand": "OPPO",
+    "features": [
+      "1.91英寸LTPO AMOLED屏，378x496分辨率",
+      "骁龙W5+Apollo 4s双芯，续航14天",
+      "心电/血氧/腕温监测，60秒健康检查",
+      "eSIM独立通话，支持微信手表版",
+      "5ATM防水，双频GPS+北斗定位"
+    ],
+    "description": "旗舰级健康监测，双芯长续航",
+    "suitable_for": [
+      "OPPO手机用户",
+      "需要心电监测的用户",
+      "商务与运动兼顾人群"
+    ]
+  },
+  {
+    "name": "荣耀手表GS 4",
+    "category": "智能手表",
+    "price": 999,
+    "brand": "荣耀",
+    "features": [
+      "1.43英寸AMOLED屏，466x466分辨率",
+      "8通道心率监测，血氧/睡眠/压力分析",
+      "双频GPS+北斗，100+运动模式",
+      "14天续航，支持蓝牙通话/音乐",
+      "5ATM防水，支持NFC门禁/支付"
+    ],
+    "description": "荣耀生态高性价比健康手表",
+    "suitable_for": [
+      "荣耀手机用户",
+      "注重睡眠与压力管理的人群",
+      "日常运动爱好者"
+    ]
+  },
+  {
+    "name": "Amazfit T-Rex 3",
+    "category": "智能手表",
+    "price": 1299,
+    "brand": "Amazfit",
+    "features": [
+      "1.5英寸AMOLED屏，480x480分辨率",
+      "Zepp OS 3.0，支持第三方应用",
+      "双频GPS+北斗+GLONASS，150+运动模式",
+      "续航20天，-30℃低温使用",
+      "10ATM防水，军规MIL-STD-810H认证"
+    ],
+    "description": "硬核户外智能手表，超长续航",
+    "suitable_for": [
+      "户外探险与越野跑者",
+      "极端环境工作者",
+      "追求耐用性的用户"
+    ]
+  },
+  {
+    "name": "华为Watch GT 4 41mm",
+    "category": "智能手表",
+    "price": 1188,
+    "brand": "华为",
+    "features": [
+      "1.32英寸AMOLED屏，466x466分辨率",
+      "TruSeen 5.5+心率监测，女性健康管理",
+      "双频GPS+北斗，100+运动模式",
+      "7天续航，HarmonyOS 4系统",
+      "5ATM防水，支持蓝牙通话/音乐"
+    ],
+    "description": "小巧时尚女性向健康手表",
+    "suitable_for": [
+      "女性用户",
+      "注重健康与外观的用户",
+      "小手腕佩戴者"
+    ]
+  },
+  {
+    "name": "小米Watch S3 标准版",
+    "category": "智能手表",
+    "price": 599,
+    "brand": "小米",
+    "features": [
+      "1.43英寸AMOLED屏，466x466分辨率",
+      "12nm制程芯片，续航15天",
+      "150+运动模式，双频GPS定位",
+      "5ATM防水，支持血氧/心率/睡眠监测",
+      "可更换表圈设计，支持NFC"
+    ],
+    "description": "极致性价比智能手表，功能齐全",
+    "suitable_for": [
+      "预算敏感型用户",
+      "小米生态用户",
+      "基础运动与健康监测需求者"
+    ]
+  },
+  {
+    "name": "罗技 G915 X LIGHTSPEED 无线机械键盘",
+    "category": "键盘",
+    "price": 1799,
+    "brand": "罗技",
+    "features": [
+      "LIGHTSPEED无线技术+蓝牙双模",
+      "GL矮轴（触感/线性/青轴可选）",
+      "RGB背光+铝合金拉丝面板",
+      "300小时续航（无光）",
+      "可拆卸USB-C充电线"
+    ],
+    "description": "超薄无线旗舰，低延迟与长续航兼备",
+    "suitable_for": [
+      "电竞玩家",
+      "桌面整洁爱好者",
+      "多设备办公用户"
+    ]
+  },
+  {
+    "name": "雷蛇 黑寡妇蜘蛛 V4 Pro 75% 无线键盘",
+    "category": "键盘",
+    "price": 1999,
+    "brand": "雷蛇",
+    "features": [
+      "雷蛇第三代光轴（触感/线性）",
+      "OLED智能显示屏+旋钮",
+      "热插拔轴座设计",
+      "8000Hz轮询率无线",
+      "PBT双色注塑键帽"
+    ],
+    "description": "75%配列旗舰，屏幕交互与极致响应",
+    "suitable_for": [
+      "硬核游戏玩家",
+      "客制化爱好者",
+      "追求低延迟用户"
+    ]
+  },
+  {
+    "name": "海盗船 K100 AIR 无线机械键盘",
+    "category": "键盘",
+    "price": 2199,
+    "brand": "海盗船",
+    "features": [
+      "CHERRY MX Ultra Low Profile矮轴",
+      "SLIPSTREAM无线+蓝牙双模",
+      "AXON超处理技术（8000Hz轮询）",
+      "RGB背光+阳极氧化铝壳",
+      "磁吸式掌托+多媒体旋钮"
+    ],
+    "description": "极致轻薄旗舰，矮轴与高速处理融合",
+    "suitable_for": [
+      "高端电竞选手",
+      "便携办公用户",
+      "桌面美学追求者"
+    ]
+  },
+  {
+    "name": "赛睿 Apex Pro TKL 无线版",
+    "category": "键盘",
+    "price": 1899,
+    "brand": "赛睿",
+    "features": [
+      "OmniPoint 2.0可调触发磁轴（0.1-4.0mm）",
+      "OLED智能显示屏",
+      "PBT键帽+航空级铝框架",
+      "Quantum 2.0无线+蓝牙",
+      "40级触发灵敏度调节"
+    ],
+    "description": "可调触发磁轴旗舰，精准控制与无线自由",
+    "suitable_for": [
+      "FPS专业玩家",
+      "竞技类游戏用户",
+      "自定义需求高的玩家"
+    ]
+  },
+  {
+    "name": "华硕 ROG Azoth 75% 无线机械键盘",
+    "category": "键盘",
+    "price": 1799,
+    "brand": "华硕",
+    "features": [
+      "ROG NX机械轴（红/蓝/棕）",
+      "OLED显示屏+三向旋钮",
+      "Gasket结构+硅胶消音垫",
+      "SpeedNova无线+蓝牙+有线三模",
+      "热插拔轴座+附送润滑套件"
+    ],
+    "description": "客制化级75%旗舰，静音与手感兼得",
+    "suitable_for": [
+      "高端游戏玩家",
+      "客制化入门用户",
+      "追求静音体验者"
+    ]
+  },
+  {
+    "name": "樱桃 KW 9200 MINI XT 无线机械键盘",
+    "category": "键盘",
+    "price": 1499,
+    "brand": "樱桃",
+    "features": [
+      "CHERRY MX LP 矮轴（红/茶/青）",
+      "超紧凑60%布局+蓝牙5.2",
+      "铝合金外壳+RGB背光",
+      "内置锂电池+USB-C充电",
+      "德国原厂轴体制造"
+    ],
+    "description": "60%矮轴旗舰，德系精工与便携设计",
+    "suitable_for": [
+      "移动办公用户",
+      "桌面空间有限者",
+      "德系品质爱好者"
+    ]
+  },
+  {
+    "name": "Keychron Q1 Max 75% 客制化机械键盘",
+    "category": "键盘",
+    "price": 1299,
+    "brand": "Keychron",
+    "features": [
+      "全CNC铝合金外壳+Gasket结构",
+      "QMK/VIA开源固件全键编程",
+      "热插拔轴座（兼容3/5脚轴）",
+      "PBT双色键帽+RGB背光",
+      "蓝牙5.1+有线双模"
+    ],
+    "description": "开源客制化旗舰，铝坨坨与全键编程",
+    "suitable_for": [
+      "客制化发烧友",
+      "程序员/开发者",
+      "DIY键盘玩家"
+    ]
+  },
+  {
+    "name": "阿米洛 问鹤 静电容机械键盘",
+    "category": "键盘",
+    "price": 1599,
+    "brand": "阿米洛",
+    "features": [
+      "阿米洛静电容V2轴（45g/55g）",
+      "PBT热升华键帽（国风鹤主题）",
+      "全键无冲+Type-C接口",
+      "内置消音棉+铝合金定位板",
+      "USB HUB扩展接口"
+    ],
+    "description": "国风静电容旗舰，手感与颜值双在线",
+    "suitable_for": [
+      "文字工作者",
+      "国风美学爱好者",
+      "静电容轴体粉丝"
+    ]
+  },
+  {
+    "name": "Keychron V1 QMK 客制化机械键盘",
+    "category": "键盘",
+    "price": 399,
+    "brand": "Keychron",
+    "features": [
+      "Gasket结构设计",
+      "全键热插拔轴座",
+      "QMK/VIA开源固件",
+      "PBT双色注塑键帽",
+      "RGB背光"
+    ],
+    "description": "入门级客制化Gasket键盘，性价比极高",
+    "suitable_for": [
+      "DIY玩家",
+      "办公用户",
+      "编程爱好者"
+    ]
+  },
+  {
+    "name": "RK R87 三模机械键盘",
+    "category": "键盘",
+    "price": 249,
+    "brand": "RK Royal Kludge",
+    "features": [
+      "三模连接（有线/2.4G/蓝牙）",
+      "全键热插拔",
+      "侧刻RGB灯效",
+      "PBT键帽",
+      "3750mAh大电池"
+    ],
+    "description": "百元级三模热插拔键盘，功能全面",
+    "suitable_for": [
+      "学生党",
+      "无线办公用户",
+      "入门机械键盘玩家"
+    ]
+  },
+  {
+    "name": "VGN N75 Pro 三模机械键盘",
+    "category": "键盘",
+    "price": 199,
+    "brand": "VGN",
+    "features": [
+      "Gasket结构",
+      "全键热插拔",
+      "三模连接",
+      "PBT键帽",
+      "RGB背光"
+    ],
+    "description": "75%配列Gasket键盘，性价比屠夫",
+    "suitable_for": [
+      "游戏玩家",
+      "桌面空间有限用户",
+      "预算敏感型用户"
+    ]
+  },
+  {
+    "name": "狼蛛 F87 Pro 三模机械键盘",
+    "category": "键盘",
+    "price": 179,
+    "brand": "狼蛛（AULA）",
+    "features": [
+      "Gasket结构",
+      "全键热插拔",
+      "三模连接",
+      "PBT双色注塑键帽",
+      "侧刻RGB灯效"
+    ],
+    "description": "87键Gasket三模键盘，百元级标杆",
+    "suitable_for": [
+      "游戏玩家",
+      "办公用户",
+      "性价比追求者"
+    ]
+  },
+  {
+    "name": "达尔优 A87 三模机械键盘",
+    "category": "键盘",
+    "price": 329,
+    "brand": "达尔优（Dareu）",
+    "features": [
+      "Gasket结构",
+      "全键热插拔",
+      "三模连接",
+      "PBT键帽",
+      "天空轴V3线性轴"
+    ],
+    "description": "国产老牌Gasket三模键盘，手感均衡",
+    "suitable_for": [
+      "办公用户",
+      "游戏玩家",
+      "机械键盘入门用户"
+    ]
+  },
+  {
+    "name": "珂芝 K75 Lite 三模机械键盘",
+    "category": "键盘",
+    "price": 299,
+    "brand": "珂芝（KZZI）",
+    "features": [
+      "Gasket结构",
+      "全键热插拔",
+      "三模连接",
+      "PBT键帽",
+      "TTC轴体可选"
+    ],
+    "description": "75%配列Gasket键盘，做工扎实",
+    "suitable_for": [
+      "办公用户",
+      "游戏玩家",
+      "品质追求者"
+    ]
+  },
+  {
+    "name": "黑峡谷 X3 Pro 三模机械键盘",
+    "category": "键盘",
+    "price": 269,
+    "brand": "黑峡谷（Hyeku）",
+    "features": [
+      "三模连接",
+      "全键热插拔",
+      "PBT双色注塑键帽",
+      "凯华BOX轴体",
+      "RGB背光"
+    ],
+    "description": "凯华BOX轴体三模键盘，耐用性强",
+    "suitable_for": [
+      "游戏玩家",
+      "打字用户",
+      "耐用性需求用户"
+    ]
+  },
+  {
+    "name": "机械师 K500 三模机械键盘",
+    "category": "键盘",
+    "price": 219,
+    "brand": "机械师（MACHENIKE）",
+    "features": [
+      "三模连接",
+      "全键热插拔",
+      "PBT键帽",
+      "RGB背光",
+      "Gasket结构"
+    ],
+    "description": "百元级Gasket三模键盘，电竞风格",
+    "suitable_for": [
+      "游戏玩家",
+      "学生党",
+      "预算有限用户"
+    ]
+  },
+  {
+    "name": "罗技G Pro X Superlight 2 无线游戏鼠标",
+    "category": "鼠标",
+    "price": 1299,
+    "brand": "罗技",
+    "features": [
+      "HERO 2传感器，最高32000DPI",
+      "60g超轻量化设计",
+      "LIGHTFORCE混合微动开关",
+      "LIGHTSPEED无线技术，1ms响应",
+      "续航约95小时"
+    ],
+    "description": "职业级超轻无线游戏鼠标",
+    "suitable_for": [
+      "电竞职业选手",
+      "FPS游戏玩家",
+      "追求极致轻量化的用户"
+    ]
+  },
+  {
+    "name": "雷蛇毒蝰V3专业版 无线鼠标",
+    "category": "鼠标",
+    "price": 1299,
+    "brand": "雷蛇",
+    "features": [
+      "Focus Pro 30K光学传感器",
+      "54g极致轻量化设计",
+      "第三代光学微动，约9000万次寿命",
+      "HyperSpeed无线技术，4000Hz轮询率",
+      "8KHz HyperPolling有线模式"
+    ],
+    "description": "超轻电竞旗舰无线鼠标",
+    "suitable_for": [
+      "硬核FPS玩家",
+      "电竞发烧友",
+      "低延迟追求者"
+    ]
+  },
+  {
+    "name": "罗技MX Master 3S 无线鼠标",
+    "category": "鼠标",
+    "price": 899,
+    "brand": "罗技",
+    "features": [
+      "8000DPI Darkfield高精度追踪",
+      "MagSpeed电磁滚轮，每秒1000行",
+      "静音按键设计",
+      "USB-C快充，续航70天",
+      "支持Flow跨设备文件传输"
+    ],
+    "description": "旗舰级办公生产力鼠标",
+    "suitable_for": [
+      "设计师/视频剪辑师",
+      "多设备办公用户",
+      "追求效率的职场人士"
+    ]
+  },
+  {
+    "name": "雷蛇炼狱蝰蛇V3 Pro 无线鼠标",
+    "category": "鼠标",
+    "price": 1099,
+    "brand": "雷蛇",
+    "features": [
+      "Focus Pro 30K光学传感器",
+      "63g轻量化设计",
+      "第三代光学微动",
+      "HyperSpeed无线技术",
+      "人体工学右手造型"
+    ],
+    "description": "经典右手人体工学电竞鼠标",
+    "suitable_for": [
+      "右手型FPS玩家",
+      "长时间游戏用户",
+      "大手型玩家"
+    ]
+  },
+  {
+    "name": "赛睿Aerox 9 无线游戏鼠标",
+    "category": "鼠标",
+    "price": 999,
+    "brand": "赛睿",
+    "features": [
+      "TrueMove Air传感器，18000DPI",
+      "89g轻量化打孔设计",
+      "12个可编程侧键",
+      "Quantum 2.0无线技术，续航180小时",
+      "IP54防尘防水"
+    ],
+    "description": "MMO/MOBA多按键无线鼠标",
+    "suitable_for": [
+      "MMO游戏玩家",
+      "MOBA玩家",
+      "需要大量宏命令的用户"
+    ]
+  },
+  {
+    "name": "华硕ROG Harpe Ace Aim Lab 无线鼠标",
+    "category": "鼠标",
+    "price": 1099,
+    "brand": "华硕",
+    "features": [
+      "AimPoint 36K光学传感器",
+      "54g超轻量设计",
+      "ROG微动热插拔设计",
+      "SpeedNova无线技术，续航90小时",
+      "支持Aim Lab参数校准"
+    ],
+    "description": "与Aim Lab联名调校电竞鼠标",
+    "suitable_for": [
+      "专业电竞训练者",
+      "FPS精准度追求者",
+      "DIY微动爱好者"
+    ]
+  },
+  {
+    "name": "冰豹Kone XP Air 无线游戏鼠标",
+    "category": "鼠标",
+    "price": 899,
+    "brand": "冰豹",
+    "features": [
+      "Owl-Eye 19K光学传感器",
+      "Easy-Shift[+]复合按键功能",
+      "4D滚轮+5个独立按键",
+      "Stellar Wireless无线技术，续航100小时",
+      "AIMO智能RGB灯效"
+    ],
+    "description": "多功能模块化无线游戏鼠标",
+    "suitable_for": [
+      "多按键需求用户",
+      "RGB灯效爱好者",
+      "中大手型玩家"
+    ]
+  },
+  {
+    "name": "达尔优A980 Pro 无线鼠标",
+    "category": "鼠标",
+    "price": 799,
+    "brand": "达尔优",
+    "features": [
+      "PAW3395传感器，26000DPI",
+      "58g超轻镁合金外壳",
+      "TTC防尘金微动，8000万次寿命",
+      "4KHz无线+8KHz有线轮询率",
+      "内置显示屏显示参数"
+    ],
+    "description": "国产高端轻量化电竞鼠标",
+    "suitable_for": [
+      "国产外设发烧友",
+      "性价比旗舰追求者",
+      "中小手型玩家"
+    ]
+  },
+  {
+    "name": "罗技 G304 Lightspeed 无线游戏鼠标",
+    "category": "鼠标",
+    "price": 199,
+    "brand": "罗技",
+    "features": [
+      "HERO 25K传感器，最高25600DPI",
+      "Lightspeed无线技术，1ms报告率",
+      "6个可编程按键",
+      "约250小时续航（1节AA电池）",
+      "机械按键张力系统，手感一致"
+    ],
+    "description": "入门级无线游戏鼠标，性价比标杆",
+    "suitable_for": [
+      "预算有限的游戏玩家",
+      "办公与轻度电竞用户",
+      "需要无线自由的日常用户"
+    ]
+  },
+  {
+    "name": "雷蛇 蝰蛇标准版 6400DPI",
+    "category": "鼠标",
+    "price": 129,
+    "brand": "雷蛇",
+    "features": [
+      "6400DPI光学传感器，原生分辨率",
+      "右手人体工学设计，舒适握持",
+      "约1000万次点击寿命机械微动",
+      "轻量化设计，约96克",
+      "雷云驱动支持按键自定义"
+    ],
+    "description": "经典蝰蛇模具，入门游戏鼠标首选",
+    "suitable_for": [
+      "MOBA/FPS入门玩家",
+      "大手型用户",
+      "预算敏感的办公升级用户"
+    ]
+  },
+  {
+    "name": "达尔优 A950 三模无线游戏鼠标",
+    "category": "鼠标",
+    "price": 179,
+    "brand": "达尔优",
+    "features": [
+      "PAW3395传感器，最高26000DPI",
+      "三模连接：有线/2.4G/蓝牙",
+      "约70小时续航（2.4G模式）",
+      "KBS 2.0按键衡力系统，无空键程",
+      "约83克轻量化设计"
+    ],
+    "description": "国产高配三模鼠标，性能越级",
+    "suitable_for": [
+      "追求高性价比的玩家",
+      "多设备切换办公用户",
+      "轻量化鼠标爱好者"
+    ]
+  },
+  {
+    "name": "罗技 G102 第二代 8000DPI",
+    "category": "鼠标",
+    "price": 99,
+    "brand": "罗技",
+    "features": [
+      "8000DPI光学传感器，追踪精准",
+      "6个可编程按键，板载内存",
+      "约1000万次点击寿命机械微动",
+      "对称设计，左右手通用",
+      "RGB灯效，1680万色自定义"
+    ],
+    "description": "百元级经典游戏鼠标，稳定耐用",
+    "suitable_for": [
+      "学生党入门游戏",
+      "小手型用户",
+      "办公与轻度游戏双修用户"
+    ]
+  },
+  {
+    "name": "雷柏 VT9 Pro 双模游戏鼠标",
+    "category": "鼠标",
+    "price": 169,
+    "brand": "雷柏",
+    "features": [
+      "PAW3395传感器，最高26000DPI",
+      "双模连接：有线/2.4G",
+      "约160小时续航（1节AA电池）",
+      "约78克轻量化设计",
+      "欧姆龙5000万次微动开关"
+    ],
+    "description": "轻量化双模鼠标，续航出色",
+    "suitable_for": [
+      "长时间游戏玩家",
+      "追求轻量化的FPS玩家",
+      "预算有限的无线用户"
+    ]
+  },
+  {
+    "name": "微软 精巧鼠标 蓝牙版",
+    "category": "鼠标",
+    "price": 129,
+    "brand": "微软",
+    "features": [
+      "蓝影追踪技术，可在玻璃表面使用",
+      "蓝牙5.0连接，无需接收器",
+      "左右对称设计，便携小巧",
+      "约12个月续航（2节AAA电池）",
+      "静音按键，适合安静环境"
+    ],
+    "description": "便携蓝牙鼠标，玻璃表面可用",
+    "suitable_for": [
+      "移动办公用户",
+      "笔记本用户",
+      "需要静音鼠标的办公人群"
+    ]
+  },
+  {
+    "name": "罗技 M720 Triathlon 多设备鼠标",
+    "category": "鼠标",
+    "price": 199,
+    "brand": "罗技",
+    "features": [
+      "支持连接3台设备，一键切换",
+      "双模连接：蓝牙/2.4G Unifying接收器",
+      "约24个月续航（1节AA电池）",
+      "8个可自定义按键",
+      "支持Flow跨设备文件传输"
+    ],
+    "description": "多设备办公鼠标，跨屏操作利器",
+    "suitable_for": [
+      "多设备办公用户",
+      "程序员/设计师",
+      "需要高效切换的职场人士"
+    ]
+  },
+  {
+    "name": "雷蛇 巴塞利斯蛇 X 极速版",
+    "category": "鼠标",
+    "price": 179,
+    "brand": "雷蛇",
+    "features": [
+      "PAW3369传感器，最高18000DPI",
+      "双模连接：蓝牙/2.4G Hyperspeed",
+      "约450小时续航（蓝牙模式）",
+      "右手人体工学，带狙击键",
+      "约83克轻量化设计"
+    ],
+    "description": "长续航无线游戏鼠标，手感优秀",
+    "suitable_for": [
+      "右手型游戏玩家",
+      "追求长续航的无线用户",
+      "FPS游戏爱好者"
+    ]
+  },
+  {
+    "name": "戴尔 Alienware AW3225QF 32英寸 4K QD-OLED",
+    "category": "显示器",
+    "price": 9999,
+    "brand": "戴尔",
+    "features": [
+      "4K 240Hz QD-OLED面板",
+      "0.03ms GTG响应时间",
+      "DisplayHDR 400 True Black认证",
+      "覆盖99% DCI-P3色域",
+      "NVIDIA G-Sync Ultimate支持"
+    ],
+    "description": "顶级游戏画质与流畅度兼备的QD-OLED旗舰",
+    "suitable_for": [
+      "硬核游戏玩家",
+      "电竞职业选手",
+      "高端影音发烧友"
+    ]
+  },
+  {
+    "name": "三星 Odyssey OLED G8 G80SD 32英寸 4K 240Hz",
+    "category": "显示器",
+    "price": 8999,
+    "brand": "三星",
+    "features": [
+      "32英寸4K 240Hz QD-OLED面板",
+      "0.03ms响应时间",
+      "HDR10+ Gaming认证",
+      "内置Tizen智能系统",
+      "AMD FreeSync Premium Pro"
+    ],
+    "description": "智能系统加持的OLED电竞旗舰显示器",
+    "suitable_for": [
+      "游戏玩家",
+      "多媒体娱乐用户",
+      "追求高刷画质的设计师"
+    ]
+  },
+  {
+    "name": "华硕 ROG Swift PG32UCDM 32英寸 4K OLED",
+    "category": "显示器",
+    "price": 10999,
+    "brand": "华硕",
+    "features": [
+      "32英寸4K 240Hz WOLED面板",
+      "0.03ms GTG响应时间",
+      "DisplayHDR 400 True Black认证",
+      "98% DCI-P3色域",
+      "ROG散热技术与防眩光涂层"
+    ],
+    "description": "ROG顶级OLED电竞显示器，极致流畅体验",
+    "suitable_for": [
+      "高端游戏玩家",
+      "电竞主播",
+      "专业内容创作者"
+    ]
+  },
+  {
+    "name": "LG UltraGear 32GS95UE 32英寸 4K 240Hz OLED",
+    "category": "显示器",
+    "price": 8499,
+    "brand": "LG",
+    "features": [
+      "32英寸4K 240Hz WOLED面板",
+      "0.03ms响应时间",
+      "DisplayHDR 400 True Black认证",
+      "98.5% DCI-P3色域",
+      "AGLR防眩光低反射涂层"
+    ],
+    "description": "LG旗舰OLED游戏显示器，色彩与速度兼备",
+    "suitable_for": [
+      "游戏玩家",
+      "影音爱好者",
+      "专业图形工作者"
+    ]
+  },
+  {
+    "name": "苹果 Pro Display XDR 32英寸 6K Retina",
+    "category": "显示器",
+    "price": 39999,
+    "brand": "苹果",
+    "features": [
+      "32英寸6K分辨率6016x3384",
+      "1600尼特峰值亮度（HDR）",
+      "P3广色域与10-bit色彩",
+      "1000000:1对比度（XDR模式）",
+      "参考模式与Pro Stand可选"
+    ],
+    "description": "专业级6K参考显示器，色彩精准度标杆",
+    "suitable_for": [
+      "专业影视后期",
+      "摄影师",
+      "高端设计工作者"
+    ]
+  },
+  {
+    "name": "戴尔 UltraSharp U3224KB 32英寸 6K IPS Black",
+    "category": "显示器",
+    "price": 15999,
+    "brand": "戴尔",
+    "features": [
+      "32英寸6K分辨率6144x3456",
+      "IPS Black技术，2000:1对比度",
+      "覆盖99% DCI-P3与Display P3",
+      "内置4K网络摄像头与降噪麦克风",
+      "Thunderbolt 4接口与90W供电"
+    ],
+    "description": "6K超清专业显示器，内置摄像头适合办公",
+    "suitable_for": [
+      "专业设计师",
+      "视频剪辑师",
+      "高端商务用户"
+    ]
+  },
+  {
+    "name": "明基 PD3225U 32英寸 4K IPS 专业设计显示器",
+    "category": "显示器",
+    "price": 6999,
+    "brand": "明基",
+    "features": [
+      "32英寸4K IPS面板，覆盖99% DCI-P3",
+      "DisplayHDR 400认证",
+      "Delta E≤2出厂校色",
+      "内置KVM与Thunderbolt 3接口",
+      "M-book模式与ICC色管支持"
+    ],
+    "description": "专业设计显示器，精准色彩与多设备协作",
+    "suitable_for": [
+      "平面设计师",
+      "视频剪辑师",
+      "摄影后期工作者"
+    ]
+  },
+  {
+    "name": "微星 MPG 321URX 32英寸 4K QD-OLED 240Hz",
+    "category": "显示器",
+    "price": 7999,
+    "brand": "微星",
+    "features": [
+      "32英寸4K 240Hz QD-OLED面板",
+      "0.03ms响应时间",
+      "DisplayHDR 400 True Black认证",
+      "97% DCI-P3色域",
+      "HDMI 2.1与USB-C 90W供电"
+    ],
+    "description": "微星旗舰QD-OLED，游戏与创作两相宜",
+    "suitable_for": [
+      "游戏玩家",
+      "内容创作者",
+      "追求高画质的多面手"
+    ]
+  },
+  {
+    "name": "Redmi 27英寸 4K显示器",
+    "category": "显示器",
+    "price": 1499,
+    "brand": "Redmi",
+    "features": [
+      "27英寸4K IPS面板",
+      "Type-C 65W反向充电",
+      "100% sRGB色域",
+      "DC调光+低蓝光认证"
+    ],
+    "description": "千元级4K办公显示器，性价比标杆",
+    "suitable_for": [
+      "办公用户",
+      "MacBook外接用户",
+      "预算有限的4K需求者"
+    ]
+  },
+  {
+    "name": "HKC 27英寸 2K 180Hz Fast IPS",
+    "category": "显示器",
+    "price": 1299,
+    "brand": "HKC",
+    "features": [
+      "27英寸2K Fast IPS面板",
+      "180Hz高刷新率",
+      "1ms GTG响应",
+      "HDR10支持",
+      "升降旋转支架"
+    ],
+    "description": "电竞小金刚，高刷与色彩兼顾",
+    "suitable_for": [
+      "FPS游戏玩家",
+      "学生党",
+      "预算有限的电竞用户"
+    ]
+  },
+  {
+    "name": "AOC 24G4X 23.8英寸 1080P 180Hz",
+    "category": "显示器",
+    "price": 899,
+    "brand": "AOC",
+    "features": [
+      "23.8英寸Fast IPS面板",
+      "180Hz刷新率",
+      "1ms MPRT响应",
+      "Adaptive-Sync防撕裂",
+      "低蓝光模式"
+    ],
+    "description": "入门级高刷电竞屏，流畅体验",
+    "suitable_for": [
+      "入门电竞玩家",
+      "宿舍学生",
+      "预算敏感的游戏用户"
+    ]
+  },
+  {
+    "name": "华硕 VG27AQ3A 27英寸 2K 180Hz",
+    "category": "显示器",
+    "price": 1799,
+    "brand": "华硕",
+    "features": [
+      "27英寸2K Fast IPS面板",
+      "180Hz超频刷新率",
+      "1ms GTG响应",
+      "ELMB SYNC动态模糊抑制",
+      "HDR10认证"
+    ],
+    "description": "华硕小金刚Max，电竞与色彩均衡",
+    "suitable_for": [
+      "中端电竞玩家",
+      "主机游戏玩家",
+      "需要高刷新率的办公用户"
+    ]
+  },
+  {
+    "name": "戴尔 S2722QC 27英寸 4K Type-C",
+    "category": "显示器",
+    "price": 2299,
+    "brand": "戴尔",
+    "features": [
+      "27英寸4K IPS面板",
+      "Type-C 65W供电",
+      "99% sRGB色域",
+      "内置双3W扬声器",
+      "四边窄边框设计"
+    ],
+    "description": "戴尔入门4K办公屏，Type-C一线连",
+    "suitable_for": [
+      "MacBook用户",
+      "设计师",
+      "多设备办公用户"
+    ]
+  },
+  {
+    "name": "小米 27英寸 2K 165Hz 快速液晶",
+    "category": "显示器",
+    "price": 1599,
+    "brand": "小米",
+    "features": [
+      "27英寸2K Fast IPS面板",
+      "165Hz刷新率",
+      "1ms GTG响应",
+      "95% DCI-P3色域",
+      "TUV低蓝光认证"
+    ],
+    "description": "小米电竞显示器，色准与速度兼得",
+    "suitable_for": [
+      "游戏玩家",
+      "影音娱乐用户",
+      "追求性价比的创作者"
+    ]
+  },
+  {
+    "name": "联想 Y27q-30 27英寸 2K 165Hz",
+    "category": "显示器",
+    "price": 1499,
+    "brand": "联想",
+    "features": [
+      "27英寸2K IPS面板",
+      "165Hz刷新率",
+      "99% sRGB色域",
+      "HDR10支持",
+      "内置双3W扬声器"
+    ],
+    "description": "联想拯救者系列，均衡电竞办公屏",
+    "suitable_for": [
+      "游戏玩家",
+      "办公用户",
+      "联想生态用户"
+    ]
+  },
+  {
+    "name": "飞利浦 27E1N5500L 27英寸 2K 165Hz",
+    "category": "显示器",
+    "price": 1399,
+    "brand": "飞利浦",
+    "features": [
+      "27英寸2K IPS面板",
+      "165Hz刷新率",
+      "1ms MPRT响应",
+      "SmartImage游戏模式",
+      "低蓝光不闪屏"
+    ],
+    "description": "飞利浦电竞屏，护眼与性能平衡",
+    "suitable_for": [
+      "长时间游戏玩家",
+      "护眼需求用户",
+      "预算有限的中端用户"
+    ]
+  },
+  {
+    "name": "漫步者S2000MKIII 2.0有源音箱",
+    "category": "音箱",
+    "price": 1980,
+    "brand": "Edifier",
+    "features": [
+      "5.5英寸铝盆低音+平板高音",
+      "LDAC/aptX HD蓝牙5.0",
+      "每声道连续功率65W",
+      "数字分频+双DSP处理",
+      "光纤/同轴/蓝牙多输入"
+    ],
+    "description": "经典2.0书架箱，解析力与低频兼备",
+    "suitable_for": [
+      "桌面HiFi入门用户",
+      "听音乐为主的影音爱好者"
+    ]
+  },
+  {
+    "name": "JBL Charge 5 便携蓝牙音箱",
+    "category": "音箱",
+    "price": 1299,
+    "brand": "JBL",
+    "features": [
+      "IP67防水防尘",
+      "30W功率+双低音辐射器",
+      "20小时续航",
+      "内置USB-A反向充电",
+      "蓝牙5.1+PartyBoost串联"
+    ],
+    "description": "户外防水长续航，低频强劲便携",
+    "suitable_for": [
+      "户外露营/聚会用户",
+      "需要移动电源功能的用户"
+    ]
+  },
+  {
+    "name": "华为Sound X 2021款 智能音箱",
+    "category": "音箱",
+    "price": 999,
+    "brand": "Huawei",
+    "features": [
+      "帝瓦雷联合调音+60W峰值功率",
+      "3.5英寸低音+6个全频单元",
+      "一碰传音+鸿蒙多设备协同",
+      "支持Hi-Res高解析音频",
+      "360度环绕声场"
+    ],
+    "description": "帝瓦雷低频技术，鸿蒙生态核心入口",
+    "suitable_for": [
+      "华为手机/平板用户",
+      "追求智能家居控制的用户"
+    ]
+  },
+  {
+    "name": "Marshall Stanmore III 家用蓝牙音箱",
+    "category": "音箱",
+    "price": 2599,
+    "brand": "Marshall",
+    "features": [
+      "30W+15W*2三分频系统",
+      "HDMI ARC输入+蓝牙5.3",
+      "经典摇滚外观+黄铜面板",
+      "动态响度调节技术",
+      "支持Marshall App EQ调节"
+    ],
+    "description": "摇滚经典设计，三分频细节丰富",
+    "suitable_for": [
+      "摇滚/流行音乐爱好者",
+      "家居装饰与音质并重用户"
+    ]
+  },
+  {
+    "name": "小米Sound Pro 智能音箱",
+    "category": "音箱",
+    "price": 699,
+    "brand": "Xiaomi",
+    "features": [
+      "7单元+40W峰值功率",
+      "哈曼调音+低频增强",
+      "小米澎湃智联+UWB连接",
+      "支持QQ音乐/网易云音乐",
+      "立体声组合模式"
+    ],
+    "description": "高性价比智能音箱，低频与生态兼备",
+    "suitable_for": [
+      "小米智能家居用户",
+      "预算有限但追求音质的用户"
+    ]
+  },
+  {
+    "name": "Bose SoundLink Flex 便携音箱",
+    "category": "音箱",
+    "price": 999,
+    "brand": "Bose",
+    "features": [
+      "IP67防水防尘+浮水设计",
+      "定制全频单元+被动双膜共振",
+      "12小时续航",
+      "内置麦克风+语音助手",
+      "硅胶外壳抗冲击"
+    ],
+    "description": "户外坚固防水，Bose标志性饱满人声",
+    "suitable_for": [
+      "户外运动/旅行用户",
+      "注重人声清晰度的用户"
+    ]
+  },
+  {
+    "name": "哈曼卡顿琉璃4 蓝牙音箱",
+    "category": "音箱",
+    "price": 2299,
+    "brand": "Harman Kardon",
+    "features": [
+      "360度LED呼吸灯效",
+      "4.5英寸低音+6个全频单元",
+      "130W总功率+下沉式低音",
+      "蓝牙5.2+AUX输入",
+      "透明水母造型设计"
+    ],
+    "description": "视觉与听觉双重享受，氛围感十足",
+    "suitable_for": [
+      "家居氛围灯爱好者",
+      "追求颜值与低频的用户"
+    ]
+  },
+  {
+    "name": "索尼SRS-XB43 便携蓝牙音箱",
+    "category": "音箱",
+    "price": 1199,
+    "brand": "Sony",
+    "features": [
+      "IP67防水防尘+防锈",
+      "X-Balanced扬声器+双低音振膜",
+      "30小时续航+快充",
+      "Party Connect串联100台",
+      "内置麦克风+免提通话"
+    ],
+    "description": "索尼EXTRA BASS技术，户外派对利器",
+    "suitable_for": [
+      "户外派对/聚会用户",
+      "喜欢重低音节奏的用户"
+    ]
+  },
+  {
+    "name": "索尼 A1 II 全画幅微单",
+    "category": "相机",
+    "price": 47999,
+    "brand": "索尼",
+    "features": [
+      "5010万像素全画幅堆栈式CMOS",
+      "30fps无黑屏连拍（电子快门）",
+      "8K 30p/4K 120p视频录制",
+      "AI自动对焦系统（实时追踪人/动物/鸟）",
+      "5轴防抖（8.5档补偿）"
+    ],
+    "description": "全能旗舰，速度与画质巅峰",
+    "suitable_for": [
+      "专业体育摄影师",
+      "野生动物摄影师",
+      "顶级视频创作者"
+    ]
+  },
+  {
+    "name": "尼康 Z8 全画幅微单",
+    "category": "相机",
+    "price": 27999,
+    "brand": "尼康",
+    "features": [
+      "4570万像素堆栈式CMOS",
+      "20fps RAW连拍（电子快门）",
+      "8K 60p/4K 120p内录",
+      "EXPEED 7处理器（AI对焦）",
+      "机身防抖（6档）"
+    ],
+    "description": "紧凑机身，旗舰性能下放",
+    "suitable_for": [
+      "风光摄影师",
+      "混合拍摄创作者",
+      "专业摄影发烧友"
+    ]
+  },
+  {
+    "name": "佳能 EOS R5 Mark II 全画幅微单",
+    "category": "相机",
+    "price": 26999,
+    "brand": "佳能",
+    "features": [
+      "4500万像素背照式CMOS",
+      "30fps电子快门连拍",
+      "8K 60p RAW视频内录",
+      "DIGIC X+加速处理器",
+      "双像素CMOS AF II（眼控对焦）"
+    ],
+    "description": "视频与照片双修旗舰",
+    "suitable_for": [
+      "商业摄影师",
+      "高端视频博主",
+      "人像摄影师"
+    ]
+  },
+  {
+    "name": "富士 GFX100S II 中画幅相机",
+    "category": "相机",
+    "price": 36500,
+    "brand": "富士",
+    "features": [
+      "1.02亿像素中画幅CMOS（44x33mm）",
+      "IBIS五轴防抖（8档）",
+      "16bit RAW/20bit GFX格式",
+      "X-Processor 5图像引擎",
+      "AI对焦（人/动物/鸟）"
+    ],
+    "description": "亿级像素中画幅便携化",
+    "suitable_for": [
+      "商业广告摄影师",
+      "风光艺术创作者",
+      "追求极致画质用户"
+    ]
+  },
+  {
+    "name": "索尼 ZV-E1 全画幅Vlog相机",
+    "category": "相机",
+    "price": 15499,
+    "brand": "索尼",
+    "features": [
+      "1210万像素全画幅背照式CMOS",
+      "4K 120p/1080 240p慢动作",
+      "AI自动构图+产品展示模式",
+      "5轴防抖（动态防抖增强）",
+      "S-Cinetone色彩科学"
+    ],
+    "description": "全画幅Vlog神器，轻便高画质",
+    "suitable_for": [
+      "视频博主",
+      "内容创作者",
+      "旅行记录者"
+    ]
+  },
+  {
+    "name": "松下 Lumix S5 IIX 全画幅微单",
+    "category": "相机",
+    "price": 14998,
+    "brand": "松下",
+    "features": [
+      "2420万像素全画幅CMOS",
+      "6K 30p/5.9K 30p ProRes RAW外录",
+      "相位检测自动对焦（779点）",
+      "双原生ISO（100/640）",
+      "机身防抖（6.5档）"
+    ],
+    "description": "视频性价比之王，RAW外录",
+    "suitable_for": [
+      "独立电影人",
+      "视频制作团队",
+      "摄影爱好者升级"
+    ]
+  },
+  {
+    "name": "索尼ZV-E10 II + 16-50mm套机",
+    "category": "相机",
+    "price": 6499,
+    "brand": "索尼",
+    "features": [
+      "APS-C画幅约2420万像素传感器",
+      "支持4K 60p视频录制无裁切",
+      "侧翻式触摸屏+内置指向性麦克风",
+      "AI自动构图与产品展示模式",
+      "机身五轴防抖（电子防抖增强）"
+    ],
+    "description": "Vlog与入门视频创作性价比之选",
+    "suitable_for": [
+      "视频博主",
+      "家庭用户",
+      "旅行记录者"
+    ]
+  },
+  {
+    "name": "佳能EOS R50 + 18-45mm套机",
+    "category": "相机",
+    "price": 5299,
+    "brand": "佳能",
+    "features": [
+      "APS-C画幅约2420万像素CMOS",
+      "电子取景器+侧翻触摸屏",
+      "4K 30p视频（6K超采样）",
+      "第二代全像素双核CMOS AF",
+      "机身轻巧仅约375克（含电池）"
+    ],
+    "description": "轻便易用的入门微单全能机型",
+    "suitable_for": [
+      "摄影初学者",
+      "家庭日常拍摄",
+      "轻旅行用户"
+    ]
+  },
+  {
+    "name": "尼康Z30 + 16-50mm套机",
+    "category": "相机",
+    "price": 4999,
+    "brand": "尼康",
+    "features": [
+      "APS-C画幅约2088万像素传感器",
+      "无裁切4K 30p视频录制",
+      "大尺寸手柄+翻转触摸屏",
+      "延时视频与间隔拍摄功能",
+      "兼容尼克尔Z系列镜头群"
+    ],
+    "description": "专为Vlog与日常记录设计的轻量微单",
+    "suitable_for": [
+      "视频创作者",
+      "日常记录者",
+      "入门摄影爱好者"
+    ]
+  },
+  {
+    "name": "松下Lumix G100D + 12-32mm套机",
+    "category": "相机",
+    "price": 3998,
+    "brand": "松下",
+    "features": [
+      "M4/3画幅2030万像素Live MOS传感器",
+      "支持4K 30p视频（无裁切）",
+      "内置OZO音频（3麦克风+降噪）",
+      "翻转触摸屏+电子取景器",
+      "机身防抖+电子防抖（视频模式）"
+    ],
+    "caption": "Vlog与直播专用高性价比微单",
+    "suitable_for": [
+      "直播用户",
+      "视频会议",
+      "入门视频创作者"
+    ],
+    "description": "M4/3画幅2030万像素Live MOS传感器、支持4K 30p视频（无裁切）、内置OZO音频（3"
+  },
+  {
+    "name": "索尼A6100 + 16-50mm套机",
+    "category": "相机",
+    "price": 4599,
+    "brand": "索尼",
+    "features": [
+      "APS-C画幅约2420万像素Exmor CMOS",
+      "425点相位检测自动对焦（0.02秒）",
+      "11张/秒连拍（机械快门）",
+      "4K 30p视频（全像素读取）",
+      "180度翻转触摸屏+WiFi传输"
+    ],
+    "description": "入门级高速对焦微单经典款",
+    "suitable_for": [
+      "家庭抓拍",
+      "宠物摄影",
+      "入门运动摄影"
+    ]
+  },
+  {
+    "name": "佳能EOS 200D II + 18-55mm套机",
+    "category": "相机",
+    "price": 4299,
+    "brand": "佳能",
+    "features": [
+      "APS-C画幅约2410万像素CMOS",
+      "全像素双核CMOS AF（实时取景）",
+      "4K 25p视频（裁切模式）",
+      "翻转触摸屏+WiFi/蓝牙连接",
+      "机身仅约449克（含电池）"
+    ],
+    "description": "轻量入门单反，兼顾操作与便携",
+    "suitable_for": [
+      "摄影入门学习者",
+      "家庭用户",
+      "旅行摄影"
+    ]
+  },
+  {
+    "name": "尼康Z50 + 16-50mm套机",
+    "category": "相机",
+    "price": 5899,
+    "brand": "尼康",
+    "features": [
+      "APS-C画幅约2088万像素CMOS",
+      "EXPEED 6影像处理器",
+      "4K 30p视频（无裁切）",
+      "翻转触摸屏+电子取景器",
+      "机身防抖（约4.5档补偿）"
+    ],
+    "description": "均衡性能的尼康Z系列入门微单",
+    "suitable_for": [
+      "尼康老用户升级",
+      "日常综合拍摄",
+      "户外旅行摄影"
+    ]
+  },
+  {
+    "name": "索尼 PlayStation 5 Pro 2TB",
+    "category": "游戏主机",
+    "price": 5999,
+    "brand": "Sony",
+    "features": [
+      "GPU算力达16.7 TFLOPS（RDNA 3架构）",
+      "支持8K输出与120Hz可变刷新率",
+      "内置2TB NVMe SSD，加载速度5.5GB/s",
+      "支持光线追踪与PSSR超分辨率技术",
+      "DualSense无线控制器自适应扳机+触觉反馈"
+    ],
+    "description": "索尼旗舰级4K/8K游戏主机，性能大幅提升",
+    "suitable_for": [
+      "追求极致画质的3A大作玩家",
+      "PS5游戏库深度用户",
+      "家庭影院游戏爱好者"
+    ]
+  },
+  {
+    "name": "微软 Xbox Series X 2TB Galaxy Black",
+    "category": "游戏主机",
+    "price": 4999,
+    "brand": "Microsoft",
+    "features": [
+      "GPU算力12.15 TFLOPS（RDNA 2架构）",
+      "支持4K@120Hz与8K输出，HDMI 2.1",
+      "内置2TB NVMe SSD，加载速度2.4GB/s",
+      "支持光线追踪与可变速率着色（VRS）",
+      "快速恢复功能可同时切换多个游戏"
+    ],
+    "description": "微软性能最强游戏主机，支持XGP生态",
+    "suitable_for": [
+      "Xbox Game Pass订阅用户",
+      "跨平台游戏玩家",
+      "追求稳定4K高帧率玩家"
+    ]
+  },
+  {
+    "name": "任天堂 Switch 2 OLED 512GB",
+    "category": "游戏主机",
+    "price": 3499,
+    "brand": "Nintendo",
+    "features": [
+      "定制NVIDIA Tegra T239芯片，支持DLSS 3",
+      "7.9英寸OLED屏幕，分辨率1080P/720P",
+      "内置512GB UFS 3.1存储，支持microSD扩展",
+      "支持4K底座输出与120Hz显示",
+      "Joy-Con 2代霍尔效应摇杆防漂移"
+    ],
+    "description": "任天堂次世代混合游戏主机，掌机与主机一体",
+    "suitable_for": [
+      "任天堂第一方游戏粉丝",
+      "便携与家庭双场景玩家",
+      "家庭娱乐与亲子游戏用户"
+    ]
+  },
+  {
+    "name": "华硕 ROG Ally X 1TB",
+    "category": "游戏主机",
+    "price": 5999,
+    "brand": "ASUS",
+    "features": [
+      "AMD Ryzen Z1 Extreme处理器（8核16线程）",
+      "7英寸1080P 120Hz IPS屏，500nit亮度",
+      "内置1TB PCIe 4.0 SSD，支持2230扩展",
+      "80Wh大电池，续航提升至8小时",
+      "支持Windows 11与Xbox Game Pass原生运行"
+    ],
+    "description": "旗舰级Windows掌机，性能与续航全面升级",
+    "suitable_for": [
+      "PC游戏掌机爱好者",
+      "出差/旅行中玩3A大作的玩家",
+      "Windows游戏生态用户"
+    ]
+  },
+  {
+    "name": "联想 Legion Go 2 1TB",
+    "category": "游戏主机",
+    "price": 5499,
+    "brand": "Lenovo",
+    "features": [
+      "AMD Ryzen Z2 Extreme处理器（RDNA 3.5核显）",
+      "8.8英寸144Hz QHD+ IPS屏，500nit",
+      "内置1TB PCIe 4.0 SSD，支持microSD扩展",
+      "可拆卸手柄+支架，支持FPS模式",
+      "49.2Wh电池，支持65W快充"
+    ],
+    "description": "大屏高性能Windows掌机，可拆卸手柄设计",
+    "suitable_for": [
+      "追求大屏掌机体验的PC玩家",
+      "需要手柄分离模式的用户",
+      "联想生态与Windows游戏用户"
+    ]
+  },
+  {
+    "name": "Steam Deck OLED 1TB",
+    "category": "游戏主机",
+    "price": 4999,
+    "brand": "Valve",
+    "features": [
+      "定制AMD Aerith APU（Zen 2+RDNA 2）",
+      "7.4英寸OLED HDR屏，90Hz刷新率",
+      "内置1TB NVMe SSD，支持microSD扩展",
+      "50Wh电池，续航6-8小时（游戏）",
+      "SteamOS原生支持，兼容Windows游戏"
+    ],
+    "description": "Steam官方旗舰掌机，OLED屏与长续航升级",
+    "suitable_for": [
+      "Steam游戏库重度用户",
+      "开源与Linux游戏爱好者",
+      "便携PC游戏核心玩家"
+    ]
+  },
+  {
+    "name": "索尼 PlayStation 5 Slim 数字版 1TB",
+    "category": "游戏主机",
+    "price": 3499,
+    "brand": "Sony",
+    "features": [
+      "GPU算力10.28 TFLOPS（RDNA 2架构）",
+      "支持4K@120Hz与光线追踪",
+      "内置1TB NVMe SSD，加载速度5.5GB/s",
+      "支持DualSense自适应扳机与3D音效",
+      "体积缩小30%，重量减轻18%"
+    ],
+    "description": "PS5轻薄数字版，高性价比次世代入门",
+    "suitable_for": [
+      "预算有限的次世代玩家",
+      "PS Plus订阅用户",
+      "数字版游戏购买者"
+    ]
+  },
+  {
+    "name": "微软 Xbox Series S 1TB 碳黑版",
+    "category": "游戏主机",
+    "price": 2599,
+    "brand": "Microsoft",
+    "features": [
+      "GPU算力4 TFLOPS（RDNA 2架构）",
+      "支持1440P@120Hz与可变速率着色",
+      "内置1TB NVMe SSD，加载速度2.4GB/s",
+      "支持光线追踪与快速恢复功能",
+      "体积最小Xbox，支持XGP云游戏"
+    ],
+    "description": "微软入门级次世代主机，小巧高性价比",
+    "suitable_for": [
+      "XGP轻度订阅用户",
+      "预算有限的学生玩家",
+      "小空间游戏环境用户"
+    ]
+  },
+  {
+    "name": "索尼 PlayStation 5 数字版（轻薄款）",
+    "category": "游戏主机",
+    "price": 2999,
+    "brand": "Sony",
+    "features": [
+      "定制AMD Zen2 8核CPU/GPU 10.28 TFLOPS",
+      "825GB定制SSD，加载速度极快",
+      "支持4K/120Hz输出与光线追踪",
+      "DualSense无线控制器自适应扳机+触觉反馈",
+      "向下兼容PS4游戏，支持PS Plus精选集"
+    ],
+    "description": "次世代数字游戏主机，高性价比入门",
+    "suitable_for": [
+      "追求次世代体验的玩家",
+      "PS4老用户升级",
+      "预算有限的3A游戏爱好者"
+    ]
+  },
+  {
+    "name": "微软 Xbox Series S（白色款）",
+    "category": "游戏主机",
+    "price": 2199,
+    "brand": "Microsoft",
+    "features": [
+      "定制AMD Zen2 8核CPU/GPU 4 TFLOPS",
+      "512GB NVMe SSD，快速启动",
+      "支持1440P/120Hz输出，可变刷新率",
+      "Xbox Game Pass终极订阅畅玩数百款游戏",
+      "支持光线追踪与快速恢复功能"
+    ],
+    "description": "小巧体积，低价畅玩Xbox生态游戏",
+    "suitable_for": [
+      "XGP订阅用户",
+      "预算敏感的学生玩家",
+      "客厅轻度游戏用户"
+    ]
+  },
+  {
+    "name": "任天堂 Switch OLED 马力欧红蓝限定版",
+    "category": "游戏主机",
+    "price": 2599,
+    "brand": "Nintendo",
+    "features": [
+      "7英寸OLED屏幕，色彩鲜艳对比度高",
+      "64GB内置存储，支持microSD扩展",
+      "TV模式/桌上模式/掌机模式三合一",
+      "Joy-Con手柄支持体感与HD震动",
+      "续航约4.5-9小时，支持USB-C快充"
+    ],
+    "description": "掌机主机一体，独占游戏阵容强大",
+    "suitable_for": [
+      "任天堂粉丝与家庭用户",
+      "便携游戏需求者",
+      "喜欢马里奥/塞尔达等独占IP的玩家"
+    ]
+  },
+  {
+    "name": "索尼 PlayStation 5 Slim 光驱版",
+    "category": "游戏主机",
+    "price": 3599,
+    "brand": "Sony",
+    "features": [
+      "定制AMD Zen2 8核CPU/GPU 10.28 TFLOPS",
+      "1TB定制SSD，支持扩展",
+      "4K蓝光光驱，可播放光盘游戏与影碟",
+      "支持Tempest 3D音效与触觉反馈",
+      "体积比原版缩小30%，重量减轻18%"
+    ],
+    "description": "经典光驱版次世代主机，性能全面",
+    "suitable_for": [
+      "实体光盘收藏玩家",
+      "追求完整PS5体验的用户",
+      "家庭影音游戏中心用户"
+    ]
+  },
+  {
+    "name": "微软 Xbox Series X 黑色款",
+    "category": "游戏主机",
+    "price": 3899,
+    "brand": "Microsoft",
+    "features": [
+      "定制AMD Zen2 8核CPU/GPU 12 TFLOPS",
+      "1TB NVMe SSD，支持扩展卡",
+      "原生4K/120Hz输出，支持8K输出",
+      "Xbox Game Pass终极版畅玩EA Play等",
+      "支持杜比视界与杜比全景声"
+    ],
+    "description": "性能最强Xbox，4K高帧率游戏利器",
+    "suitable_for": [
+      "硬核画质追求者",
+      "XGP重度订阅用户",
+      "多平台游戏玩家"
+    ]
+  },
+  {
+    "name": "任天堂 Switch Lite 珊瑚色",
+    "category": "游戏主机",
+    "price": 1199,
+    "brand": "Nintendo",
+    "features": [
+      "5.5英寸LCD触控屏，分辨率720P",
+      "32GB内置存储，支持microSD扩展",
+      "掌机专用，无法连接电视",
+      "续航约3-7小时，轻便易携带",
+      "支持所有Switch掌机模式游戏"
+    ],
+    "description": "纯掌机设计，极致便携低价入门",
+    "suitable_for": [
+      "经常外出通勤的玩家",
+      "预算极低的学生党",
+      "作为副机或儿童专属游戏机"
+    ]
+  },
+  {
+    "name": "AYANEO 2S 掌机（锐龙7 7840U）",
+    "category": "游戏主机",
+    "price": 4999,
+    "brand": "AYANEO",
+    "features": [
+      "AMD Ryzen 7 7840U处理器，RDNA3核显",
+      "7英寸IPS屏，分辨率1920x1200，120Hz",
+      "16GB LPDDR5内存+512GB PCIe 4.0 SSD",
+      "霍尔效应摇杆与线性扳机，无漂移",
+      "Windows 11系统，兼容Steam/Epic等平台"
+    ],
+    "description": "高性能Windows掌机，畅玩PC游戏",
+    "suitable_for": [
+      "PC游戏掌机爱好者",
+      "出差旅行游戏玩家",
+      "追求便携3A体验的极客"
+    ]
+  },
+  {
+    "name": "NVIDIA Shield TV Pro（2019款）",
+    "category": "游戏主机",
+    "price": 1599,
+    "brand": "NVIDIA",
+    "features": [
+      "NVIDIA Tegra X1+处理器，支持AI增强",
+      "3GB RAM+16GB存储，支持USB扩展",
+      "支持4K HDR/杜比视界/杜比全景声",
+      "GeForce NOW云游戏串流，支持Steam Link",
+      "内置Chromecast与Google Assistant"
+    ],
+    "description": "安卓电视盒子兼云游戏主机，影音游戏一体",
+    "suitable_for": [
+      "云游戏订阅用户",
+      "家庭影音娱乐中心用户",
+      "轻度游戏与流媒体爱好者"
+    ]
+  },
+  {
+    "name": "三星 990 Pro 4TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 3299,
+    "brand": "三星",
+    "features": [
+      "顺序读取7450MB/s，顺序写入6900MB/s",
+      "PCIe 4.0 x4接口，NVMe 2.0协议",
+      "4TB容量，1TB单颗NAND密度",
+      "三星Pascal主控+1GB LPDDR4缓存",
+      "支持三星魔术师软件，5年有限保修"
+    ],
+    "description": "旗舰级PCIe 4.0固态，性能与容量兼备",
+    "suitable_for": [
+      "高端游戏玩家",
+      "视频剪辑与内容创作者",
+      "专业工作站用户"
+    ]
+  },
+  {
+    "name": "西部数据 SN850X 2TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 2199,
+    "brand": "西部数据",
+    "features": [
+      "顺序读取7300MB/s，顺序写入6600MB/s",
+      "PCIe 4.0 x4，NVMe 1.4协议",
+      "2TB容量，TLC NAND颗粒",
+      "集成Game Mode 2.0优化游戏加载",
+      "5年质保，高达1200TBW耐久度"
+    ],
+    "description": "游戏优化旗舰固态，低延迟高响应",
+    "suitable_for": [
+      "硬核游戏玩家",
+      "电竞主播",
+      "高性能PC发烧友"
+    ]
+  },
+  {
+    "name": "希捷 FireCuda 540 2TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 2599,
+    "brand": "希捷",
+    "features": [
+      "顺序读取10000MB/s，顺序写入10000MB/s",
+      "PCIe 5.0 x4接口，NVMe 2.0协议",
+      "2TB容量，3D TLC NAND",
+      "集成E18控制器，支持DirectStorage",
+      "5年质保，附带Rescue数据恢复服务"
+    ],
+    "description": "PCIe 5.0旗舰，极致速度与数据保护",
+    "suitable_for": [
+      "追求极致速度的发烧友",
+      "专业渲染与3D设计",
+      "高端游戏主机用户"
+    ]
+  },
+  {
+    "name": "金士顿 KC3000 4TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 2999,
+    "brand": "金士顿",
+    "features": [
+      "顺序读取7000MB/s，顺序写入7000MB/s",
+      "PCIe 4.0 x4，NVMe 1.4协议",
+      "4TB超大容量，TLC NAND",
+      "Phison E18主控，低功耗设计",
+      "5年质保，高达3200TBW耐久度"
+    ],
+    "description": "大容量旗舰固态，兼顾性能与耐用性",
+    "suitable_for": [
+      "数据密集型工作者",
+      "4K/8K视频编辑",
+      "大型数据库存储用户"
+    ]
+  },
+  {
+    "name": "闪迪 至尊超极速 4TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 3499,
+    "brand": "闪迪",
+    "features": [
+      "顺序读取7300MB/s，顺序写入6600MB/s",
+      "PCIe 4.0 x4，NVMe 1.4协议",
+      "4TB容量，BiCS5 112层3D TLC",
+      "集成nCache 4.0加速技术",
+      "5年质保，附带Acronis克隆软件"
+    ],
+    "description": "西部数据旗下旗舰，稳定高速大容量",
+    "suitable_for": [
+      "专业摄影师",
+      "影视后期制作",
+      "企业级数据备份"
+    ]
+  },
+  {
+    "name": "海盗船 MP700 Pro 2TB NVMe M.2 SSD",
+    "category": "存储设备",
+    "price": 2799,
+    "brand": "海盗船",
+    "features": [
+      "顺序读取10000MB/s，顺序写入9500MB/s",
+      "PCIe 5.0 x4，NVMe 2.0协议",
+      "2TB容量，3D TLC NAND",
+      "集成散热片与海盗船iCUE软件",
+      "5年质保，支持微软DirectStorage"
+    ],
+    "description": "PCIe 5.0性能猛兽，散热与速度并重",
+    "suitable_for": [
+      "极限超频玩家",
+      "高端游戏与VR开发",
+      "实时数据流处理"
+    ]
+  },
+  {
+    "name": "索尼 TOUGH CFexpress Type B 128GB 存储卡",
+    "category": "存储设备",
+    "price": 1899,
+    "brand": "索尼",
+    "features": [
+      "读取速度1700MB/s，写入速度1500MB/s",
+      "CFexpress Type B接口，兼容XQD",
+      "128GB容量，一体成型防尘防摔",
+      "支持VPG400视频速度等级",
+      "工作温度-10°C至70°C"
+    ],
+    "description": "专业级高速存储卡，坚固耐用",
+    "suitable_for": [
+      "专业微单摄影师",
+      "8K视频拍摄者",
+      "户外极端环境工作者"
+    ]
+  },
+  {
+    "name": "雷克沙 Professional CFexpress Type B 512GB 存储卡",
+    "category": "存储设备",
+    "price": 3299,
+    "brand": "雷克沙",
+    "features": [
+      "读取速度1900MB/s，写入速度1700MB/s",
+      "CFexpress Type B，PCIe 3.0 x2",
+      "512GB大容量，支持VPG400",
+      "支持4K/8K RAW视频连续录制",
+      "附带USB 3.2读卡器"
+    ],
+    "description": "大容量高速CFexpress卡，专业影视首选",
+    "suitable_for": [
+      "电影级视频制作人",
+      "高速连拍体育摄影师",
+      "无人机航拍专业用户"
+    ]
+  },
+  {
+    "name": "三星 T7 Shield 1TB 移动固态硬盘",
+    "category": "存储设备",
+    "price": 699,
+    "brand": "三星",
+    "features": [
+      "读取速度1050MB/s",
+      "写入速度1000MB/s",
+      "IP65防水防尘",
+      "3米抗跌落",
+      "USB 3.2 Gen2接口"
+    ],
+    "description": "坚固耐用的高速移动固态硬盘",
+    "suitable_for": [
+      "户外工作者",
+      "摄影师",
+      "频繁移动数据用户"
+    ]
+  },
+  {
+    "name": "西部数据 SN580 1TB NVMe SSD",
+    "category": "存储设备",
+    "price": 499,
+    "brand": "西部数据",
+    "features": [
+      "PCIe 4.0 x4接口",
+      "读取速度4150MB/s",
+      "写入速度4150MB/s",
+      "5年质保",
+      "低功耗设计"
+    ],
+    "description": "高性价比PCIe 4.0固态硬盘",
+    "suitable_for": [
+      "游戏玩家",
+      "内容创作者",
+      "升级旧电脑用户"
+    ]
+  },
+  {
+    "name": "闪迪 Extreme Pro 1TB 移动固态硬盘",
+    "category": "存储设备",
+    "price": 799,
+    "brand": "闪迪",
+    "features": [
+      "读取速度2000MB/s",
+      "写入速度2000MB/s",
+      "IP55防水防尘",
+      "2米抗跌落",
+      "USB-C接口"
+    ],
+    "description": "极速便携移动固态硬盘",
+    "suitable_for": [
+      "视频剪辑师",
+      "商务人士",
+      "数据备份用户"
+    ]
+  },
+  {
+    "name": "致态 TiPlus7100 1TB NVMe SSD",
+    "category": "存储设备",
+    "price": 459,
+    "brand": "致态",
+    "features": [
+      "PCIe 4.0 x4接口",
+      "读取速度7000MB/s",
+      "写入速度6000MB/s",
+      "长江存储原厂颗粒",
+      "5年质保"
+    ],
+    "description": "国产高性能NVMe固态硬盘",
+    "suitable_for": [
+      "DIY装机用户",
+      "游戏玩家",
+      "性价比追求者"
+    ]
+  },
+  {
+    "name": "希捷 酷鱼 BarraCuda 2TB 3.5寸机械硬盘",
+    "category": "存储设备",
+    "price": 389,
+    "brand": "希捷",
+    "features": [
+      "7200RPM转速",
+      "256MB缓存",
+      "SATA 6Gb/s接口",
+      "2TB大容量",
+      "2年质保"
+    ],
+    "description": "大容量高性价比机械硬盘",
+    "suitable_for": [
+      "NAS用户",
+      "大文件存储用户",
+      "预算有限用户"
+    ]
+  },
+  {
+    "name": "金士顿 DataTraveler Max 256GB U盘",
+    "category": "存储设备",
+    "price": 199,
+    "brand": "金士顿",
+    "features": [
+      "读取速度1000MB/s",
+      "写入速度900MB/s",
+      "USB 3.2 Gen2接口",
+      "256GB容量",
+      "金属外壳"
+    ],
+    "description": "高速大容量固态U盘",
+    "suitable_for": [
+      "IT运维人员",
+      "设计师",
+      "快速传输文件用户"
+    ]
+  },
+  {
+    "name": "雷克沙 SL660 1TB 移动固态硬盘",
+    "category": "存储设备",
+    "price": 649,
+    "brand": "雷克沙",
+    "features": [
+      "读取速度2000MB/s",
+      "写入速度1800MB/s",
+      "RGB灯效",
+      "USB 3.2 Gen2x2接口",
+      "铝合金外壳"
+    ],
+    "description": "带RGB灯效的高速移动固态硬盘",
+    "suitable_for": [
+      "游戏玩家",
+      "电竞爱好者",
+      "个性化用户"
+    ]
+  },
+  {
+    "name": "海康威视 C4000 1TB NVMe SSD",
+    "category": "存储设备",
+    "price": 429,
+    "brand": "海康威视",
+    "features": [
+      "PCIe 4.0 x4接口",
+      "读取速度7450MB/s",
+      "写入速度6600MB/s",
+      "联芸主控+长江存储颗粒",
+      "5年质保"
+    ],
+    "description": "国产高性价比PCIe 4.0固态",
+    "suitable_for": [
+      "装机用户",
+      "游戏玩家",
+      "预算敏感用户"
+    ]
+  },
+  {
+    "name": "JBL Flip 6 便携蓝牙音箱",
+    "category": "音箱",
+    "price": 899,
+    "brand": "JBL",
+    "features": [
+      "IP67防水防尘",
+      "12小时续航",
+      "JBL Original Pro Sound",
+      "蓝牙5.1稳定连接"
+    ],
+    "description": "户外便携防水蓝牙音箱",
+    "suitable_for": [
+      "户外爱好者",
+      "学生党",
+      "旅行者"
+    ]
+  },
+  {
+    "name": "Bose SoundLink Flex 蓝牙音箱",
+    "category": "音箱",
+    "price": 1199,
+    "brand": "Bose",
+    "features": [
+      "PositionIQ技术自动优化音质",
+      "IP67防水防尘",
+      "坚固耐用硅胶外壳",
+      "12小时续航"
+    ],
+    "description": "全向音质户外便携音箱",
+    "suitable_for": [
+      "户外运动者",
+      "家庭用户",
+      "音质追求者"
+    ]
+  },
+  {
+    "name": "哈曼卡顿 Onyx Studio 8 蓝牙音箱",
+    "category": "音箱",
+    "price": 1999,
+    "brand": "哈曼卡顿",
+    "features": [
+      "双低音辐射器强劲低音",
+      "8小时续航",
+      "IP67防水",
+      "内置麦克风免提通话"
+    ],
+    "description": "经典设计便携蓝牙音箱",
+    "suitable_for": [
+      "派对爱好者",
+      "家居装饰控",
+      "音乐发烧友"
+    ]
+  },
+  {
+    "name": "Apple HomePod mini 智能音箱",
+    "category": "音箱",
+    "price": 749,
+    "brand": "苹果",
+    "features": [
+      "Siri语音助手",
+      "多设备无缝切换",
+      "空间音频支持",
+      "智能家居中枢"
+    ],
+    "description": "苹果生态智能音箱",
+    "suitable_for": [
+      "苹果用户",
+      "智能家居玩家",
+      "语音助手爱好者"
+    ]
+  },
+  {
+    "name": "华为 Sound X 2021 智能音箱",
+    "category": "音箱",
+    "price": 1999,
+    "brand": "华为",
+    "features": [
+      "帝瓦雷联合调音",
+      "三分频声学架构",
+      "HarmonyOS多设备协同",
+      "一碰传音"
+    ],
+    "description": "帝瓦雷调音智能音箱",
+    "suitable_for": [
+      "华为手机用户",
+      "音乐爱好者",
+      "智能家居用户"
+    ]
+  },
+  {
+    "name": "漫步者 S2000MKIII 桌面HiFi音箱",
+    "category": "音箱",
+    "price": 1980,
+    "brand": "漫步者",
+    "features": [
+      "5.5英寸铝盆低音+平板高音",
+      "Hi-Res认证",
+      "蓝牙5.0+光纤/同轴输入",
+      "遥控器+APP控制"
+    ],
+    "description": "高保真有源桌面音箱",
+    "suitable_for": [
+      "桌面HiFi玩家",
+      "影音爱好者",
+      "电脑用户"
+    ]
+  },
+  {
+    "name": "马歇尔 Stanmore III 蓝牙音箱",
+    "category": "音箱",
+    "price": 3299,
+    "brand": "马歇尔",
+    "features": [
+      "标志性摇滚音色",
+      "经典复古设计",
+      "HDMI ARC输入",
+      "蓝牙5.3 aptX"
+    ],
+    "description": "复古摇滚风格桌面音箱",
+    "suitable_for": [
+      "摇滚乐迷",
+      "家居设计控",
+      "桌面音响玩家"
+    ]
+  },
+  {
+    "name": "Sonos Beam Gen 2 Soundbar",
+    "category": "音箱",
+    "price": 3999,
+    "brand": "Sonos",
+    "features": [
+      "杜比全景声虚拟环绕",
+      "HDMI eARC连接",
+      "WiFi多房间组网",
+      "AirPlay 2支持"
+    ],
+    "description": "紧凑型全景声回音壁",
+    "suitable_for": [
+      "电视用户",
+      "多房间音乐玩家",
+      "影音发烧友"
+    ]
+  }
+]

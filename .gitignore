@@ -1,0 +1,34 @@
+# ChromaDB 向量库（运行时自动生成，无需上传）
+chroma_db/
+chroma_db_v2/
+chroma_db_v3/
+chroma_db_v4/
+
+# 用户画像数据
+data/user_profile.json
+
+# 数据备份
+data/products_bak.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# 环境变量
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
