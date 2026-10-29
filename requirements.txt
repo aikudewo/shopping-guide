@@ -3,4 +3,3 @@ chromadb
 openai
 scikit-learn
 rank_bm25
-duckduckgo-search

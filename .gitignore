@@ -7,6 +7,10 @@ chroma_db_v4/
 # 用户画像数据
 data/user_profile.json
 
+# 运行记录（评测用，本地生成）
+data/runs.jsonl
+data/runs_*.jsonl
+
 # 数据备份
 data/products_bak.json
 
