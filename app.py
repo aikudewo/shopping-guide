@@ -11,6 +11,9 @@ import time
 import os
 import random
 
+import verify as vfy
+import agent_trace
+
 st.set_page_config(page_title="多模态导购Agent", page_icon="🛒", layout="wide")
 
 st.title("🛒 多模态电商导购 Agent")
@@ -706,6 +709,50 @@ def generate_recommendation(profile):
 
 
 # ═══════════════════════════════════════════════════════
+# 运行记录 + 评测入口
+# ═══════════════════════════════════════════════════════
+RUNS_LOG = "data/runs.jsonl"
+
+
+def append_run(record):
+    """每轮对话落一行 JSONL，供 evaluate.py 打分与前后对比。"""
+    os.makedirs("data", exist_ok=True)
+    with open(RUNS_LOG, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+with st.sidebar:
+    st.markdown("---")
+    st.subheader("🧪 评测")
+    st.caption("批量跑评测集，结果写入 data/runs.jsonl")
+    if st.button("▶️ 跑评测集", use_container_width=True):
+        if not api_key:
+            st.error("请先填入 API Key")
+        else:
+            try:
+                cases = json.load(open("evals/testset.json", encoding="utf-8"))["cases"]
+            except Exception as e:
+                st.error(f"读不到评测集：{e}")
+                cases = []
+            if cases:
+                bar = st.progress(0.0)
+                for i, c in enumerate(cases, 1):
+                    t0 = time.time()
+                    try:
+                        ans, stps = run_agent(c["query"], "", api_key)
+                    except Exception as e:
+                        ans, stps = f"异常：{e}", []
+                    append_run({
+                        "case_id": c["id"], "query": c["query"], "answer": ans,
+                        "steps": stps, "latency_ms": int((time.time() - t0) * 1000),
+                        "ts": time.strftime("%Y-%m-%d %H:%M:%S"),
+                    })
+                    bar.progress(i / len(cases))
+                st.success(f"完成 {len(cases)} 条")
+    st.caption("然后跑：`python evaluate.py --runs data/runs.jsonl`")
+
+
+# ═══════════════════════════════════════════════════════
 # 聊天历史渲染
 # ═══════════════════════════════════════════════════════
 if "messages" not in st.session_state:
@@ -740,6 +787,8 @@ for msg in st.session_state.messages:
                             st.code(s["raw"])
                     st.divider()
         st.markdown(msg["content"])
+        if msg.get("vreport"):
+            st.caption(vfy.format_report(msg["vreport"]).split("\n")[0])
         if msg.get("match_info"):
             with st.expander("📊 最终推荐商品详情", expanded=False):
                 st.markdown(msg["match_info"])
@@ -798,8 +847,21 @@ if prompt := st.chat_input("输入你的导购需求（可先上传图片）..."
             try:
                 conv_ctx = get_conversation_context()
 
+                t0 = time.time()
                 with st.spinner("🤖 Agent 分析中..."):
                     answer, steps = run_agent(full_input, conv_ctx, api_key)
+                latency_ms = int((time.time() - t0) * 1000)
+
+                # ── 事实校验 + 降级留痕 ──
+                vreport = vfy.verify_answer(
+                    answer, steps, load_products(),
+                    rejected_names=[
+                        p["name"] for p in st.session_state.profile.get("rejected_products", [])
+                    ],
+                )
+                dtrace = agent_trace.analyze_steps(
+                    steps, image_simulated=image_desc.startswith("(模拟)")
+                )
 
                 # ── 展示步骤 ──
                 with st.expander("🧠 Agent 决策过程（点击展开）", expanded=False):
@@ -831,6 +893,26 @@ if prompt := st.chat_input("输入你的导购需求（可先上传图片）..."
                         time.sleep(0.03)
                 st.write_stream(stream_answer(answer))
 
+                # ── 质量核查结果 ──
+                if vreport["status"] == "PASS" and not dtrace["n_degraded"]:
+                    st.caption(
+                        f"✅ 事实校验通过 · 可溯源 {vreport['coverage'] * 100:.0f}% · 无降级"
+                    )
+                else:
+                    bad = vreport["status"] == "FAIL"
+                    with st.expander(
+                        f"🔍 质量核查 {'❌ 未通过' if bad else '⚠️ 有告警'}",
+                        expanded=bad,
+                    ):
+                        st.markdown(vfy.format_report(vreport))
+                        st.caption(agent_trace.format_trace(dtrace))
+
+                append_run({
+                    "case_id": "", "query": prompt, "answer": answer,
+                    "steps": steps, "latency_ms": latency_ms,
+                    "ts": time.strftime("%Y-%m-%d %H:%M:%S"),
+                })
+
                 # ── 更新用户画像 ──
                 st.session_state.profile = update_profile_from_conversation(
                     st.session_state.profile
@@ -856,6 +938,8 @@ if prompt := st.chat_input("输入你的导购需求（可先上传图片）..."
                     "content": answer,
                     "steps": steps,
                     "match_info": match_info,
+                    "vreport": vreport,
+                    "dtrace": dtrace,
                 })
 
                 if uploaded_image:
